@@ -84,3 +84,8 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 * YouTube Embedded Player Parameters: https://developers.google.com/youtube/player_parameters
 * ZXing QR Code/Barcode writer and reader library: https://github.com/zxing/zxing
 * “A Big Article About Wee Things” by Lena Groeger: http://www.propublica.org/nerds/item/a-big-article-about-wee-things
+
+## Useful libraries
+
+* [A streaming image resizer, for Node and the browser.](https://github.com/devongovett/resizer-stream)
+
