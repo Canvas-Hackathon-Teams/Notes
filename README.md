@@ -11,6 +11,7 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 1. [Giving voice to the voiceless with data](challenges/example-1-giving-voice-to-the-voiceless-with-data.md)
 1. [What's in the news today, Hal?](challenges/example-3-putting-things-back-in-context.md)
 1. [Putting things back in context](challenges/example-2-whats-in-the-papers-today-hal.md)
+1. [Mapping an understanding](challenges/example-4-mapping-an-understanding.md)
 
 
 ## Resources & useful APIs
@@ -33,3 +34,12 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 * RAND Database of Terrorism Events: http://www.rand.org/nsrd/projects/terrorism-incidents.html
 * Wikipedia API: https://www.mediawiki.org/wiki/API:Main_page
 * Global Guide to Culture, Customs and Etiquette: http://www.kwintessential.co.uk/resources/country-profiles.html
+* OpenStreetMap and OSM API: http://www.openstreetmap.org/ and http://wiki.openstreetmap.org/wiki/API
+* Mapbox API: https://www.mapbox.com/developers/api/
+* Google Maps API: https://developers.google.com/maps/
+* CLAVIN (Cartographic Location And Vicinity INdexer): http://clavin.bericotechnologies.com
+* World Bank Open Data: http://data.worldbank.org/
+* GeoCommons: http://geocommons.com/
+* GeoNames: http://www.geonames.org/
+* Empirical Studies of Conflict: https://esoc.princeton.edu/
+* IcoMoon https://icomoon.io/
