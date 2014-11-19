@@ -9,7 +9,8 @@ _Notes in preparation for the [inaugural Canvas hackathon](http://canvas.aljazee
 The first [challenges](http://canvas.aljazeera.com/challenges/) have been published online. This is just a Github-friendly, offline-accessible version of the challenge text for easy reference:
 
 * [Giving voice to the voiceless with data](challenges/example-1-giving-voice-to-the-voiceless-with-data.md)
-* 
+* [Putting things back in context](challenges/example-2-whats-in-the-papers-today-hal.md)
+* [What's in the news today, Hal?](challenges/example-3-putting-things-back-in-context.md)
 
 
 ## Resources & useful APIs
