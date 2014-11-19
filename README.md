@@ -27,3 +27,8 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 * ESPN Headlines API: http://developer.espn.com/docs/headlines
 * NY Times API: http://developer.nytimes.com/docs/read/times_newswire_api
 * USA Today Breaking News API: http://developer.usatoday.com/docs/read/Breaking_News
+* CIA World Factbook: https://www.cia.gov/library/publications/the-world-factbook & 2009 Complete: http://datahub.io/dataset/cia-world-factbook
+* Global Database of Events, Language and Tone project: http://www.gdeltproject.org/
+* RAND Database of Terrorism Events: http://www.rand.org/nsrd/projects/terrorism-incidents.html
+* Wikipedia API: https://www.mediawiki.org/wiki/API:Main_page
+* Global Guide to Culture, Customs and Etiquette: http://www.kwintessential.co.uk/resources/country-profiles.html
