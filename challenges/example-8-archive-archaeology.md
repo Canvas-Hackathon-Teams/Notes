@@ -1,6 +1,8 @@
 EXAMPLE #8: ARCHIVE ARCHAEOLOGY
 ===============================
 
+http://canvas.aljazeera.com/2014/11/13/example-8-archive-archaeology/
+
 * Phase: Production
 * Context: Situational
 

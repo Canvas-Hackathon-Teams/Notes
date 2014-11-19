@@ -1,6 +1,8 @@
 EXAMPLE #7: SMARTER HEADLINES
 =============================
 
+http://canvas.aljazeera.com/2014/11/12/example-7-smarter-headlines/
+
 * Phase: Distribution
 * Context: Personal
 

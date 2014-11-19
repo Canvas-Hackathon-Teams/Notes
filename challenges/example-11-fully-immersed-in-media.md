@@ -1,6 +1,8 @@
 EXAMPLE #11: FULLY IMMERSED IN MEDIA
 ====================================
 
+http://canvas.aljazeera.com/2014/11/13/example-11-fully-immersed-in-media/
+
 * Phase: Consumption
 * Context: Situational
 

@@ -1,6 +1,8 @@
 EXAMPLE #3: PUTTING THINGS BACK IN CONTEXT
 ==========================================
 
+http://canvas.aljazeera.com/2014/11/12/example-3-putting-things-back-in-context/
+
 * Phase: Production
 * Context: Cultural & Historical
 
@@ -16,14 +18,14 @@ Create a solution that can intelligently produce a historical context report on 
 
 ## Use Cases:
 
-Topic Briefing Wizard: Nadia is a news anchor at Al Jazeera, and she is preparing to conduct a live TV interview with a representative of a new NGO on an issue in a country she doesn’t yet know much about. She wants to learn more before the interview so she can be sure to ask pertinent, hard-hitting questions. She opens an “historical/cultural context learning wizard” on her computer and selects from a few straightforward options like the country the interviewee is from, the issue the NGO is addressing, etc. The wizard produces a 2 page PDF report Nadia can print out and skim before her interview, with information about the history of the country, major events that this NGO has played a role in, and details about why this particular issue has arisen in this culture when it hasn’t in neighboring countries. There’s also information about honorifics and how Nadia should respectfully address her interviewee.
-Data Suggestion Tool: Waleed is a reporter writing a story about the textile industry in Bangladesh. As he writes paragraphs of the story, his intelligent word processor determines what he is writing about based on key phrases, and suggests visualizations of datasets from the relevant government authorities about the age and gender breakdown of textile factory workers, the major companies in the country and their revenues, etc.
+* Topic Briefing Wizard: Nadia is a news anchor at Al Jazeera, and she is preparing to conduct a live TV interview with a representative of a new NGO on an issue in a country she doesn’t yet know much about. She wants to learn more before the interview so she can be sure to ask pertinent, hard-hitting questions. She opens an “historical/cultural context learning wizard” on her computer and selects from a few straightforward options like the country the interviewee is from, the issue the NGO is addressing, etc. The wizard produces a 2 page PDF report Nadia can print out and skim before her interview, with information about the history of the country, major events that this NGO has played a role in, and details about why this particular issue has arisen in this culture when it hasn’t in neighboring countries. There’s also information about honorifics and how Nadia should respectfully address her interviewee.
+* Data Suggestion Tool: Waleed is a reporter writing a story about the textile industry in Bangladesh. As he writes paragraphs of the story, his intelligent word processor determines what he is writing about based on key phrases, and suggests visualizations of datasets from the relevant government authorities about the age and gender breakdown of textile factory workers, the major companies in the country and their revenues, etc.
  
 
 ## Additional Considerations:
 
-The solution should have a Graphical User Interface and be usable by non-technical users.
-Design the tool to be used on a smartphone, for when the journalist is in the field in a new city or country.
+* The solution should have a Graphical User Interface and be usable by non-technical users.
+* Design the tool to be used on a smartphone, for when the journalist is in the field in a new city or country.
 
 ## Resources:
 

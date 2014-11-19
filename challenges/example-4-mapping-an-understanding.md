@@ -1,6 +1,8 @@
 EXAMPLE #4: MAPPING AN UNDERSTANDING
 ====================================
 
+http://canvas.aljazeera.com/2014/11/12/example-4-mapping-an-understanding/
+
 Phase: Consumption
 Context: Situational 
 
@@ -17,9 +19,9 @@ Create a solution for mapping out and visualizing or interacting with the geogra
 
 ## Use Cases:
 
-Historical Wars and Conflicts: Wars are frequently fought over geographic territory, and current conflicts may have been precipitated by events in the past. A solution that fits this use case would produce a graphical representation of historical conflicts. Explore how to tie past battles to current ones, or illustrate the shifting “front lines” of opposing forces over time.
-My Team is Better than Yours: Sports events and leagues often stir strong regional and city-based rivalries. Some events like the Olympics, the Dakar Rally, and Formula 1 racing take place on a global scale. What if we visualized the geolocations of social media posts about each team or event, or the venues and stadiums that teams and athletes compete at? Develop a solution to visualize or interact with the geographic nature of sports fans and competitions.
-Globalization Visualization:  A story about a changing trade relationship, a new political tie, or cultural trend often only provides a glimpse of a larger global geographic development. Create a solution that visualizes and maps interactions between places to add context to a story.
+* Historical Wars and Conflicts: Wars are frequently fought over geographic territory, and current conflicts may have been precipitated by events in the past. A solution that fits this use case would produce a graphical representation of historical conflicts. Explore how to tie past battles to current ones, or illustrate the shifting “front lines” of opposing forces over time.
+* My Team is Better than Yours: Sports events and leagues often stir strong regional and city-based rivalries. Some events like the Olympics, the Dakar Rally, and Formula 1 racing take place on a global scale. What if we visualized the geolocations of social media posts about each team or event, or the venues and stadiums that teams and athletes compete at? Develop a solution to visualize or interact with the geographic nature of sports fans and competitions.
+* Globalization Visualization:  A story about a changing trade relationship, a new political tie, or cultural trend often only provides a glimpse of a larger global geographic development. Create a solution that visualizes and maps interactions between places to add context to a story.
 
 ## Additional Considerations:
 

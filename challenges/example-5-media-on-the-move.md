@@ -1,6 +1,8 @@
 EXAMPLE #5: MEDIA ON THE MOVE
 =============================
 
+http://canvas.aljazeera.com/2014/11/13/example-5-media-on-the-move/
+
 * Phase: Distribution
 * Context: Personal 
 

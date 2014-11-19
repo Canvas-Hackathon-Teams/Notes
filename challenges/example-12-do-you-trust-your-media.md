@@ -1,6 +1,8 @@
 EXAMPLE #12: DO YOU TRUST YOUR MEDIA?
 =====================================
 
+http://canvas.aljazeera.com/2014/11/13/example-12-do-you-trust-your-media/
+
 * Phase: Consumption
 * Context: Editorial
 

@@ -1,6 +1,8 @@
 EXAMPLE #9: THINK OUTSIDE THE COMMENT BOX
 =========================================
 
+http://canvas.aljazeera.com/2014/11/13/example-9-think-outside-the-comment-box/
+
 * Phase: Consumption
 * Context: Editorial
 
@@ -24,8 +26,8 @@ Create a solution for consumers to engage with media content that goes “beyond
  
 ## Additional Considerations:
 
-To facilitate greater interaction, consider developing a solution where users don’t have to create an account or log in to post reactions.
-Your solution should not involve the overused free-form text comment box. If it does, it should at least be incorporated in a novel way.
+* To facilitate greater interaction, consider developing a solution where users don’t have to create an account or log in to post reactions.
+* Your solution should not involve the overused free-form text comment box. If it does, it should at least be incorporated in a novel way.
 
 ## Resources:
 

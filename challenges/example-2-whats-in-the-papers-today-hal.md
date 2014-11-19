@@ -1,6 +1,8 @@
 EXAMPLE #2: WHAT’S IN THE PAPERS TODAY, HAL?
 ============================================
 
+http://canvas.aljazeera.com/2014/11/12/example-2-whats-in-the-papers-today-hal/
+
 * Phase: Consumption
 * Context: Personal
 
@@ -16,8 +18,8 @@ Use voice recognition and/or natural language processing tools and APIs to creat
 
 ## Use Cases:
 
-Individual Conversations: Morad likes to check the headlines as he has his morning coffee. Andrew likes to incorporate advice from fashion critics as he decides his daily outfits. Build a solution that would let them discover and listen to the morning news or fashion and style column advice simply by talking and asking questions.
-Group Conversations: Politicians and staff are working on an important new law, and while they’re having their conversations and debates, they’re interested in recent news articles pertinent to the topic they’re addressing. Build a solution with a voice interface where multiple people (in a conference room, say) could search and consume content and information on a particular topic.
+* Individual Conversations: Morad likes to check the headlines as he has his morning coffee. Andrew likes to incorporate advice from fashion critics as he decides his daily outfits. Build a solution that would let them discover and listen to the morning news or fashion and style column advice simply by talking and asking questions.
+* Group Conversations: Politicians and staff are working on an important new law, and while they’re having their conversations and debates, they’re interested in recent news articles pertinent to the topic they’re addressing. Build a solution with a voice interface where multiple people (in a conference room, say) could search and consume content and information on a particular topic.
  
 
 ## Additional Considerations:

@@ -1,6 +1,8 @@
 EXAMPLE #6: LOOKING AT THE NUMBERS
 ==================================
 
+http://canvas.aljazeera.com/2014/11/12/example-6-looking-at-the-numbers/
+
 * Phase: Production & Consumption
 * Context: Situational
 
@@ -23,8 +25,8 @@ Create a solution that can be used to visualize many types of numerical data emb
 
 ## Additional Considerations:
 
-Production-phase Recommendation: Your solution should be a repeatable visualization tool that could be applied to many stories that come through a newsroom. Have your tool create a set of possible visualizations for any tabular dataset that has one independent and one dependent variable.
-Production-phase Recommendation: Assume journalists can feed your tool domain-specific datasets in a standard format every time they need to create a visualization.
+* Production-phase Recommendation: Your solution should be a repeatable visualization tool that could be applied to many stories that come through a newsroom. Have your tool create a set of possible visualizations for any tabular dataset that has one independent and one dependent variable.
+* Production-phase Recommendation: Assume journalists can feed your tool domain-specific datasets in a standard format every time they need to create a visualization.
 
 ## Resources:
 

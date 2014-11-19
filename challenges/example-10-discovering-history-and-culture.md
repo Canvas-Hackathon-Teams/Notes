@@ -1,6 +1,8 @@
 EXAMPLE #10: DISCOVERING HISTORY AND CULTURE
 ============================================
 
+http://canvas.aljazeera.com/2014/11/13/example-10-discovering-history-and-culture/
+
 Phase: Distribution
 Context: Cultural & Historical
 
