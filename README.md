@@ -3,6 +3,9 @@ MediaInContext
 
 _Notes in preparation for the [inaugural Canvas hackathon](http://canvas.aljazeera.com), November 29th – December 1st, 2014, Doha, Qatar._
 
+## Participant lists
+
+* [Participants I could find on Twitter](https://twitter.com/phillipadsmith/lists/media-in-context/members)
 
 ## Challenges
 
