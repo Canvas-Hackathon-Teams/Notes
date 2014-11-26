@@ -85,7 +85,9 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 * ZXing QR Code/Barcode writer and reader library: https://github.com/zxing/zxing
 * “A Big Article About Wee Things” by Lena Groeger: http://www.propublica.org/nerds/item/a-big-article-about-wee-things
 
-## Useful libraries
+## Useful tools & libraries
 
 * [A streaming image resizer, for Node and the browser.](https://github.com/devongovett/resizer-stream)
+* [Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.](https://github.com/project-open-data/csv-to-api)
+* [SlimerJS, A scriptable browser for Web developers](http://slimerjs.org/) and [PhantomJs](http://phantomjs.org/)
 
