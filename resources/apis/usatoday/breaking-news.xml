@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--BUILD-DATE 11/26/2014 11:40 AM EST-->
+<rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:cf="http://www.microsoft.com/schemas/rss/core/2005" version="2.0">
+  <channel>
+    <cf:treatAs>list</cf:treatAs>
+    <title>USATODAY.com RSS Feed</title>
+    <link>http://www.usatoday.com</link>
+    <description>http://www.usatoday.com</description>
+    <language>en-us</language>
+    <copyright>Copyright 2014, USATODAY.com, USA TODAY</copyright>
+    <lastBuildDate>Wed, 26 Nov 2014 16:40:03 GMT</lastBuildDate>
+    <image>
+      <title>USATODAY.com</title>
+      <width>135</width>
+      <height>20</height>
+      <link>http://www.usatoday.com</link>
+      <url>http://i.usatoday.net/_common/_images/usatodaycom_135x20.gif</url>
+    </image>
+    <cf:listinfo>
+      <cf:sort element="pubDate" data-type="date" label="Date/Time Order" default="false">
+</cf:sort>
+      <cf:sort element="title" data-type="text" label="Title Order" default="false">
+</cf:sort>
+    </cf:listinfo>
+    <item>
+      <title>Assessing damage in Ferguson after second night of protests</title>
+      <link>http://www.usatoday.com/#livevideoassetid=43158</link>
+      <pubDate>Wed, 26 Nov 2014 12:58:00 GMT</pubDate>
+      <description>
+</description>
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=43158</guid>
+    </item>
+    <item>
+      <title>Unrest continues in Ferguson</title>
+      <link>http://www.usatoday.com/#livevideoassetid=43038</link>
+      <pubDate>Wed, 26 Nov 2014 04:48:00 GMT</pubDate>
+      <description>
+</description>
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=43038</guid>
+    </item>
+    <item>
+      <title>Unrest continues in Ferguson</title>
+      <link>http://www.usatoday.com/#livevideoassetid=43038</link>
+      <pubDate>Tue, 25 Nov 2014 22:38:00 GMT</pubDate>
+      <description>
+</description>
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=43038</guid>
+    </item>
+    <item>
+      <title>Missouri governor addresses Ferguson unrest</title>
+      <link>http://www.usatoday.com/#livevideoassetid=43104</link>
+      <pubDate>Tue, 25 Nov 2014 21:23:00 GMT</pubDate>
+      <description>
+</description>
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=43104</guid>
+    </item>
+    <item>
+      <title>Ferguson leaders address protests</title>
+      <link>http://www.usatoday.com/#livevideoassetid=43094</link>
+      <pubDate>Tue, 25 Nov 2014 20:41:00 GMT</pubDate>
+      <description>
+</description>
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=43094</guid>
+    </item>
+    <item>
+      <title>Ferguson erupts after grand jury announcement</title>
+      <link>http://www.usatoday.com/#livevideoassetid=43038</link>
+      <pubDate>Tue, 25 Nov 2014 18:56:00 GMT</pubDate>
+      <description>
+</description>
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=43038</guid>
+    </item>
+    <item>
+      <title>Grand jury reaches decision in Ferguson police shooting</title>
+      <link>http://www.usatoday.com/#livevideoassetid=42990</link>
+      <pubDate>Tue, 25 Nov 2014 07:55:00 GMT</pubDate>
+      <description>
+</description>
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=42990</guid>
+    </item>
+    <item>
+      <title>Special report: U.S. runway close calls soar</title>
+      <link>http://www.usatoday.com/story/news/nation/2014/11/24/runway-close-calls-increasing/19477871/</link>
+      <pubDate>Mon, 24 Nov 2014 19:46:00 GMT</pubDate>
+      <description>Nearly once a day, a commercial airplane encounters a collision hazard at a U.S. airport, when another aircraft, a vehicle or a person is on ...</description>
+      <guid isPermalink="true">http://www.usatoday.com/story/news/nation/2014/11/24/runway-close-calls-increasing/19477871/</guid>
+    </item>
+    <item>
+      <title>Buffalo braces for possible floods</title>
+      <link>http://www.usatoday.com/#livevideoassetid=42961</link>
+      <pubDate>Mon, 24 Nov 2014 17:25:00 GMT</pubDate>
+      <description>
+</description>
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=42961</guid>
+    </item>
+    <item>
+      <title>Obama expected to announce Sec. Hagel's resignation</title>
+      <link>http://www.usatoday.com/#livevideoassetid=42954</link>
+      <pubDate>Mon, 24 Nov 2014 16:26:00 GMT</pubDate>
+      <description>
+</description>
+      <guid isPermalink="true">http://www.usatoday.com/#livevideoassetid=42954</guid>
+    </item>
+  </channel>
+</rss>

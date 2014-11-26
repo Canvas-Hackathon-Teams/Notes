@@ -1,0 +1,93 @@
+{
+    "stories": [{
+        "description": "A messy storm brought drenching coastal rain and heavy inland snow to the East Wednesday.",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://www.usatoday.com/story/weather/2014/11/26/thanksgiving-eve-weather-snow-travel/19520683/"
+        }],
+        "link": "http://www.usatoday.com/story/weather/2014/11/26/thanksgiving-eve-weather-snow-travel/19520683/",
+        "pubDate": "Wed, 26 Nov 2014 09:40:47 GMT",
+        "title": "Snow, rain snarl Thanksgiving Eve travelers in East"
+    }, {
+        "description": "Ruth Bader Ginsburg has stent implanted to address artery blockage.",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://www.usatoday.com/story/news/politics/2014/11/26/ruth-bader-ginsburg-heart-stent/19524731/"
+        }],
+        "link": "http://www.usatoday.com/story/news/politics/2014/11/26/ruth-bader-ginsburg-heart-stent/19524731/",
+        "pubDate": "Wed, 26 Nov 2014 10:43:37 GMT",
+        "title": "Justice Ginsburg has stent implanted in heart"
+    }, {
+        "description": "Thief makes off With Holocaust victims' shoes (Newser)",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://www.newser.com/story/199169/thieves-make-off-with-shoes-of-holocaust-victims.html"
+        }],
+        "link": "http://www.newser.com/story/199169/thieves-make-off-with-shoes-of-holocaust-victims.html",
+        "pubDate": "Wed, 26 Nov 2014 08:50:17 GMT",
+        "title": "Thief makes off With Holocaust victims' shoes (Newser)"
+    }, {
+        "description": "Alfonso Ribeiro and pro partner Witney Carson received another perfect score Tuesday.",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://www.usatoday.com/story/life/tv/2014/11/26/alfonso-ribeiro-wins-season-19-of-abc-dancing-with-the-stars/70133284/"
+        }],
+        "link": "http://www.usatoday.com/story/life/tv/2014/11/26/alfonso-ribeiro-wins-season-19-of-abc-dancing-with-the-stars/70133284/",
+        "pubDate": "Wed, 26 Nov 2014 02:59:58 GMT",
+        "title": "Sitcom moves aside, 'DWTS' champ has serious skill"
+    }, {
+        "description": "DeAndre Joshua's body was found in car near the same complex where Michael Brown died.",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://www.usatoday.com/story/news/nation/2014/11/25/man-shot-burned-amid-ferguson-violence/70096226/"
+        }],
+        "link": "http://www.usatoday.com/story/news/nation/2014/11/25/man-shot-burned-amid-ferguson-violence/70096226/",
+        "pubDate": "Tue, 25 Nov 2014 02:28:08 GMT",
+        "title": "Man, 20, dies amid Ferguson protests"
+    }, {
+        "description": "Bill Cosby's nephew speaks out, defends uncle as 'innocent' until proven guilty.",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://www.usatoday.com/story/life/people/2014/11/26/cosby-nephew-defends-uncle-as-innocent/19519163/"
+        }],
+        "link": "http://www.usatoday.com/story/life/people/2014/11/26/cosby-nephew-defends-uncle-as-innocent/19519163/",
+        "pubDate": "Wed, 26 Nov 2014 08:54:49 GMT",
+        "title": "Cosby nephew defends uncle as 'innocent'"
+    }, {
+        "description": "Colt McCoy's start makes it hard to see how RG3 is back with the Redskins in 2015.",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://ftw.usatoday.com/2014/11/rg3-colt-mccoy-washington-redskins-indianapoolis-colts-jay-gruden-robert-griffin-iii-lol-whatevs"
+        }],
+        "link": "http://ftw.usatoday.com/2014/11/rg3-colt-mccoy-washington-redskins-indianapoolis-colts-jay-gruden-robert-griffin-iii-lol-whatevs",
+        "pubDate": "Wed, 26 Nov 2014 06:32:20 GMT",
+        "title": "The end for RG3 in Washington?"
+    }, {
+        "description": "She's taking the high road.",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://entertainthis.usatoday.com/2014/11/26/ariana-grandes-response-to-bette-midlers-diss-is-pretty-awesome/"
+        }],
+        "link": "http://entertainthis.usatoday.com/2014/11/26/ariana-grandes-response-to-bette-midlers-diss-is-pretty-awesome/",
+        "pubDate": "Wed, 26 Nov 2014 08:47:47 GMT",
+        "title": "Ariana Grande's response to Bette Midler's diss is pretty awesome"
+    }, {
+        "description": "Some have dubbed the product \"Milka-Cola.\"",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://www.usatoday.com/story/money/business/2014/11/26/newser-coke-milk/19521037/"
+        }],
+        "link": "http://www.usatoday.com/story/money/business/2014/11/26/newser-coke-milk/19521037/",
+        "pubDate": "Wed, 26 Nov 2014 09:10:22 GMT",
+        "title": "Coca-Cola's new venture: Expensive milk"
+    }, {
+        "description": "Leah Still's mother says the Bengals tackle hasn't paid child support in three months.",
+        "guid": [{
+            "isPermalink": "true",
+            "value": "http://ftw.usatoday.com/2014/11/devon-still-leah-still-channing-smythe-cincinnati-bengals/"
+        }],
+        "link": "http://ftw.usatoday.com/2014/11/devon-still-leah-still-channing-smythe-cincinnati-bengals/",
+        "pubDate": "Wed, 26 Nov 2014 10:11:06 GMT",
+        "title": "Mother of Devon Still's cancer-stricken child says he owes months of child support"
+    }]
+}

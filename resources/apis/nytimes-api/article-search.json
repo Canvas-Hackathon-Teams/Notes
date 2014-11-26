@@ -1,0 +1,282 @@
+{
+    "response": {
+        "meta": {
+            "hits": 69804,
+            "time": 17,
+            "offset": 0
+        },
+        "docs": [{
+            "web_url": "http:\/\/www.nytimes.com\/aponline\/2014\/11\/26\/world\/middleeast\/ap-ml-iraq.html",
+            "snippet": "Iraqi authorities say two bombings at a market and a commercial street have killed 10 people in Baghdad.",
+            "lead_paragraph": "Iraqi authorities say two bombings at a market and a commercial street have killed 10 people in Baghdad.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "AP",
+            "multimedia": [],
+            "headline": {
+                "main": "2 Bombings Kill 10 People in Iraq",
+                "print_headline": "2 Bombings Kill 10 People in Iraq"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T10:55:48Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "World",
+            "subsection_name": "Middle East",
+            "byline": {
+                "person": [],
+                "original": "By THE ASSOCIATED PRESS",
+                "organization": "THE ASSOCIATED PRESS"
+            },
+            "type_of_material": "News",
+            "_id": "5475f8a238f0d8119c6b053e",
+            "word_count": "130"
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/reuters\/2014\/11\/26\/world\/europe\/26reuters-syria-crisis-russia-lavrov.html",
+            "snippet": "Moscow and Damascus agree that \"terrorism\" is the main threat to stability in the Middle East, Russian Foreign Minister Sergei Lavrov said on Wednesday.",
+            "lead_paragraph": "Moscow and Damascus agree that \"terrorism\" is the main threat to stability in the Middle East, Russian Foreign Minister Sergei Lavrov said on Wednesday.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "Reuters",
+            "multimedia": [],
+            "headline": {
+                "main": "Russia Will Go on Supporting Syria in Countering 'Terrorism'-Lavrov",
+                "print_headline": "Russia Will Go on Supporting Syria in Countering 'Terrorism'-Lavrov"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T10:50:56Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "World",
+            "subsection_name": "Europe",
+            "byline": {
+                "person": [],
+                "original": "By REUTERS",
+                "organization": "REUTERS"
+            },
+            "type_of_material": "News",
+            "_id": "5475f73238f0d8119c6b0517",
+            "word_count": "84"
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/reuters\/2014\/11\/26\/world\/middleeast\/26reuters-mideast-crisis-usa-airstrikes.html",
+            "snippet": "The United States led 17 air strikes on Islamic State targets in Iraq and Syria since Monday, the U.S. Central Command said on Wednesday.",
+            "lead_paragraph": "The United States led 17 air strikes on Islamic State targets in Iraq and Syria since Monday, the U.S. Central Command said on Wednesday.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "Reuters",
+            "multimedia": [],
+            "headline": {
+                "main": "Islamic State Targeted in 17 Air Strikes by U.S., Allies",
+                "print_headline": "Islamic State Targeted in 17 Air Strikes by U.S., Allies"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T10:32:13Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "World",
+            "subsection_name": "Middle East",
+            "byline": {
+                "person": [],
+                "original": "By REUTERS",
+                "organization": "REUTERS"
+            },
+            "type_of_material": "News",
+            "_id": "5475f2ee38f0d8119c6b04aa",
+            "word_count": "117"
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/aponline\/2014\/11\/26\/world\/europe\/ap-eu-cyprus-islamic-state.html",
+            "snippet": "Lebanon's foreign minister says more attention should be paid to the possibility of Cyprus becoming a gateway for aspiring foreign jihadis to transit in and out of the Middle East.",
+            "lead_paragraph": "Lebanon's foreign minister says more attention should be paid to the possibility of Cyprus becoming a gateway for aspiring foreign jihadis to transit in and out of the Middle East.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "AP",
+            "multimedia": [],
+            "headline": {
+                "main": "Lebanese FM: Cyprus May Be Jihadi Transit Point",
+                "print_headline": "Lebanese FM: Cyprus May Be Jihadi Transit Point"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T09:31:12Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "World",
+            "subsection_name": "Europe",
+            "byline": {
+                "person": [],
+                "original": "By THE ASSOCIATED PRESS",
+                "organization": "THE ASSOCIATED PRESS"
+            },
+            "type_of_material": "News",
+            "_id": "5475e4ea38f0d8119c6b0344",
+            "word_count": "113"
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/reuters\/2014\/11\/26\/world\/europe\/26reuters-algeria-security.html",
+            "snippet": "Algeria's military has killed a militant involved in the abduction and beheading of French tourist Herve Gourdel in September, Justice Minister Tayeb Louh said on Wednesday.",
+            "lead_paragraph": "Algeria's military has killed a militant involved in the abduction and beheading of French tourist Herve Gourdel in September, Justice Minister Tayeb Louh said on Wednesday.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "Reuters",
+            "multimedia": [],
+            "headline": {
+                "main": "Algeria Says Killed Militant Involved in French Tourist Beheading",
+                "print_headline": "Algeria Says Killed Militant Involved in French Tourist Beheading"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T09:28:47Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "World",
+            "subsection_name": "Europe",
+            "byline": {
+                "person": [],
+                "original": "By REUTERS",
+                "organization": "REUTERS"
+            },
+            "type_of_material": "News",
+            "_id": "5475e42838f0d8119c6b0330",
+            "word_count": "243"
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/aponline\/2014\/11\/26\/us\/politics\/ap-us-united-states-jordan.html",
+            "snippet": "President Barack Obama will hold talks at the White House next week with Jordan's King Abdullah, a key U.S. ally in the Middle East.",
+            "lead_paragraph": "President Barack Obama will hold talks at the White House next week with Jordan's King Abdullah, a key U.S. ally in the Middle East.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "AP",
+            "multimedia": [],
+            "headline": {
+                "main": "Obama to Hold Talks With Jordan's King Abdullah",
+                "print_headline": "Obama to Hold Talks With Jordan's King Abdullah"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T09:28:04Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "U.S.",
+            "subsection_name": "Politics",
+            "byline": {
+                "person": [],
+                "original": "By THE ASSOCIATED PRESS",
+                "organization": "THE ASSOCIATED PRESS"
+            },
+            "type_of_material": "News",
+            "_id": "5475e44338f0d8119c6b0336",
+            "word_count": "105"
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/aponline\/2014\/11\/26\/world\/middleeast\/ap-ml-jordan-extremism-.html",
+            "snippet": "Moderate Muslims must take a stand against religious extremists who violate the core values of Islam, a brother of Jordan's king said Wednesday.",
+            "lead_paragraph": "Moderate Muslims must take a stand against religious extremists who violate the core values of Islam, a brother of Jordan's king said Wednesday.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "AP",
+            "multimedia": [],
+            "headline": {
+                "main": "AP Interview: Jordan Prince Calls for Tolerance",
+                "print_headline": "AP Interview: Jordan Prince Calls for Tolerance"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T09:14:08Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "World",
+            "subsection_name": "Middle East",
+            "byline": {
+                "person": [],
+                "original": "By THE ASSOCIATED PRESS",
+                "organization": "THE ASSOCIATED PRESS"
+            },
+            "type_of_material": "News",
+            "_id": "5475e0bb38f0d8119c6b02e5",
+            "word_count": "347"
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/reuters\/2014\/11\/26\/world\/middleeast\/26reuters-mideast-crisis-qatar-syria.html",
+            "snippet": "At a desert base, Gulf state Qatar is covertly training moderate Syrian rebels with U.S. help to fight both President Bashar al-Assad and Islamic State and may include more overtly Islamist insurgent groups, sources close to the matter say.",
+            "lead_paragraph": "At a desert base, Gulf state Qatar is covertly training moderate Syrian rebels with U.S. help to fight both President Bashar al-Assad and Islamic State and may include more overtly Islamist insurgent groups, sources close to the matter say.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "Reuters",
+            "multimedia": [],
+            "headline": {
+                "main": "Qatar Runs Covert Desert Training Camp for Syrian Rebels",
+                "print_headline": "Qatar Runs Covert Desert Training Camp for Syrian Rebels"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T09:11:23Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "World",
+            "subsection_name": "Middle East",
+            "byline": {
+                "person": [],
+                "original": "By REUTERS",
+                "organization": "REUTERS"
+            },
+            "type_of_material": "News",
+            "_id": "5475dfee38f0d8119c6b02d5",
+            "word_count": "825"
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/reuters\/2014\/11\/26\/world\/europe\/26reuters-britain-security-laws.html",
+            "snippet": "Britain's terrorism watchdog has criticized the government's proposed new security laws, describing some of the measures as an \"announcement waiting for a policy\".",
+            "lead_paragraph": "Britain's terrorism watchdog has criticized the government's proposed new security laws, describing some of the measures as an \"announcement waiting for a policy\".",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "Reuters",
+            "multimedia": [],
+            "headline": {
+                "main": "UK Terrorism Watchdog Criticizes New Security Proposals",
+                "print_headline": "UK Terrorism Watchdog Criticizes New Security Proposals"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T08:06:50Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "World",
+            "subsection_name": "Europe",
+            "byline": {
+                "person": [],
+                "original": "By REUTERS",
+                "organization": "REUTERS"
+            },
+            "type_of_material": "News",
+            "_id": "5475d12b38f0d8119c6b018a",
+            "word_count": "339"
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/reuters\/2014\/11\/26\/world\/europe\/26reuters-france-jihadis-insight.html",
+            "snippet": "When Guillaume, a 22-year-old Frenchman, left jail two months ago vowing to die as a martyr for Islam, community worker Sonia Imloul had a few minutes to convince him he was on the wrong path.",
+            "lead_paragraph": "When Guillaume, a 22-year-old Frenchman, left jail two months ago vowing to die as a martyr for Islam, community worker Sonia Imloul had a few minutes to convince him he was on the wrong path.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "Reuters",
+            "multimedia": [],
+            "headline": {
+                "main": "Secular France Moves to Confront Jihadism After Slow Start",
+                "print_headline": "Secular France Moves to Confront Jihadism After Slow Start"
+            },
+            "keywords": [],
+            "pub_date": "2014-11-26T06:41:52Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "World",
+            "subsection_name": "Europe",
+            "byline": {
+                "person": [],
+                "original": "By REUTERS",
+                "organization": "REUTERS"
+            },
+            "type_of_material": "News",
+            "_id": "5475bcc938f0d8119c6affab",
+            "word_count": "740"
+        }]
+    },
+    "status": "OK",
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

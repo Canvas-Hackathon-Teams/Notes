@@ -1,0 +1,1753 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+    "num_results": 369070,
+    "results": [{
+        "section": "Arts",
+        "subsection": "",
+        "title": "Tate Museums Offer Minecraft Maps of Famous Artworks",
+        "abstract": "Tate Worlds presents virtual environments, like those found in the video game Minecraft, based on notable artworks from the museum&#8217;s collection.",
+        "url": "http:\/\/artsbeat.blogs.nytimes.com\/2014\/11\/26\/tate-museums-offer-minecraft-maps-of-famous-artworks\/",
+        "byline": "By ROSLYN SULCAS",
+        "thumbnail_standard": "images\/2014\/11\/26\/arts\/26artsbeat-map\/26artsbeat-map-thumbStandard.jpg",
+        "item_type": "Blog",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:15:06-05:00",
+        "created_date": "2014-11-26T11:15:07-05:00",
+        "published_date": "2014-11-26T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "ArtsBeat",
+        "subheadline": "",
+        "des_facet": ["Art"],
+        "org_facet": ["Tate Britain"],
+        "per_facet": "",
+        "geo_facet": "",
+        "related_urls": null,
+        "blog_name": "ArtsBeat",
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/arts\/26artsbeat-map\/26artsbeat-map-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": ""
+        }]
+    }, {
+        "section": "Technology",
+        "subsection": "",
+        "title": "\u2018Right to Be Forgotten\u2019 Should be Extended Beyond Europe, E.U. Panel Says",
+        "abstract": "New guidelines from privacy regulators would require Google, in certain cases, to take down links in search domains in Europe as well as outside the region.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/27\/technology\/right-to-be-forgotten-should-be-extended-beyond-europe-eu-panel-says.html",
+        "byline": "By MARK SCOTT",
+        "thumbnail_standard": "",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:20:15-05:00",
+        "created_date": "2014-11-26T11:08:06-05:00",
+        "published_date": "2014-11-27T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": ["Privacy", "Regulation and Deregulation of Industry"],
+        "org_facet": ["European Union"],
+        "per_facet": "",
+        "geo_facet": ["Europe"],
+        "related_urls": [{
+            "suggested_link_text": "Right to Be Forgotten? Not That Easy",
+            "url": "http:\/\/www.nytimes.com\/2014\/05\/30\/business\/international\/on-the-internet-the-right-to-forget-vs-the-right-to-know.html"
+        }],
+        "multimedia": ""
+    }, {
+        "section": "Travel",
+        "subsection": "",
+        "title": "For a Wintry Holiday, Airlines Waive Fees",
+        "abstract": "Because of winter storm Cato several airlines are waiving fees to change or cancel flights.",
+        "url": "http:\/\/intransit.blogs.nytimes.com\/2014\/11\/26\/for-a-wintry-holiday-airlines-waive-fees\/",
+        "byline": "By RACHEL LEE HARRIS",
+        "thumbnail_standard": "",
+        "item_type": "Blog",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:04:45-05:00",
+        "created_date": "2014-11-26T11:04:46-05:00",
+        "published_date": "2014-11-26T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "In Transit",
+        "subheadline": "",
+        "des_facet": ["Airlines and Airplanes", "Travel and Vacations"],
+        "org_facet": ["American Automobile Assn", "JetBlue Airways Corporation", "United Airlines"],
+        "per_facet": "",
+        "geo_facet": "",
+        "related_urls": null,
+        "blog_name": "In Transit",
+        "multimedia": ""
+    }, {
+        "section": "Real Estate",
+        "subsection": "",
+        "title": "The Grand Concourse: Growing Signs of a Renewal",
+        "abstract": "Walk the entirety of this extra-wide Bronx street to appreciate why it once had great cachet, with elegant apartment houses in Tudor, Beaux-Arts and, predominantly, Art Deco styles.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/realestate\/the-grand-concourse-growing-signs-of-a-renewal.html",
+        "byline": "By C. J. HUGHES",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ1\/30GAZ1-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:00:41-05:00",
+        "created_date": "2014-11-26T11:00:04-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "Living In",
+        "subheadline": "",
+        "des_facet": ["Real Estate and Housing (Residential)", "Historic Buildings and Sites"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["Grand Concourse (Bronx, NY)"],
+        "related_urls": null,
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ1\/30GAZ1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>800 GRAND CONCOURSE, #5HN<\/strong> A renovated two-bedroom one-bath <a href=\"http:\/\/www.corcoran.com\/nyc\/Listings\/Display\/3356345\" title=\"The listing.\">co-op<\/a> in a postwar building, listed at $190,000. (917) 692-5886",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ1\/30GAZ1-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>800 GRAND CONCOURSE, #5HN<\/strong> A renovated two-bedroom one-bath <a href=\"http:\/\/www.corcoran.com\/nyc\/Listings\/Display\/3356345\" title=\"The listing.\">co-op<\/a> in a postwar building, listed at $190,000. (917) 692-5886",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ1\/30GAZ1-articleInline.jpg",
+            "format": "Normal",
+            "height": 127,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>800 GRAND CONCOURSE, #5HN<\/strong> A renovated two-bedroom one-bath <a href=\"http:\/\/www.corcoran.com\/nyc\/Listings\/Display\/3356345\" title=\"The listing.\">co-op<\/a> in a postwar building, listed at $190,000. (917) 692-5886",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ1\/30GAZ1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>800 GRAND CONCOURSE, #5HN<\/strong> A renovated two-bedroom one-bath <a href=\"http:\/\/www.corcoran.com\/nyc\/Listings\/Display\/3356345\" title=\"The listing.\">co-op<\/a> in a postwar building, listed at $190,000. (917) 692-5886",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ2\/30GAZ2-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>1855 GRAND CONCOURSE, #36<\/strong> A one-bedroom one-bath<a href=\"http:\/\/www.houlihanlawrence.com\/property\/35111838\/1855-grand-concourse-36-bronx-ny-10453\" title=\"The listing.\"> co-op<\/a> in a six-story Art Deco building, listed at $169,000. (718) 809-0859",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ2\/30GAZ2-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>1855 GRAND CONCOURSE, #36<\/strong> A one-bedroom one-bath<a href=\"http:\/\/www.houlihanlawrence.com\/property\/35111838\/1855-grand-concourse-36-bronx-ny-10453\" title=\"The listing.\"> co-op<\/a> in a six-story Art Deco building, listed at $169,000. (718) 809-0859",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ2\/30GAZ2-articleInline.jpg",
+            "format": "Normal",
+            "height": 127,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>1855 GRAND CONCOURSE, #36<\/strong> A one-bedroom one-bath<a href=\"http:\/\/www.houlihanlawrence.com\/property\/35111838\/1855-grand-concourse-36-bronx-ny-10453\" title=\"The listing.\"> co-op<\/a> in a six-story Art Deco building, listed at $169,000. (718) 809-0859",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ2\/30GAZ2-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>1855 GRAND CONCOURSE, #36<\/strong> A one-bedroom one-bath<a href=\"http:\/\/www.houlihanlawrence.com\/property\/35111838\/1855-grand-concourse-36-bronx-ny-10453\" title=\"The listing.\"> co-op<\/a> in a six-story Art Deco building, listed at $169,000. (718) 809-0859",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ3\/30GAZ3-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>860 GRAND CONCOURSE, #7B<\/strong> A one-bedroom one-bath <a href=\"http:\/\/tours.tourfactory.com\/tours\/tour.asp?t=1227122\" title=\"The listing.\">co-op<\/a> in an Art Deco doorman building, listed at $155,000. (917) 648-1192",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ3\/30GAZ3-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>860 GRAND CONCOURSE, #7B<\/strong> A one-bedroom one-bath <a href=\"http:\/\/tours.tourfactory.com\/tours\/tour.asp?t=1227122\" title=\"The listing.\">co-op<\/a> in an Art Deco doorman building, listed at $155,000. (917) 648-1192",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ3\/30GAZ3-articleInline.jpg",
+            "format": "Normal",
+            "height": 127,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>860 GRAND CONCOURSE, #7B<\/strong> A one-bedroom one-bath <a href=\"http:\/\/tours.tourfactory.com\/tours\/tour.asp?t=1227122\" title=\"The listing.\">co-op<\/a> in an Art Deco doorman building, listed at $155,000. (917) 648-1192",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/realestate\/30GAZ3\/30GAZ3-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>860 GRAND CONCOURSE, #7B<\/strong> A one-bedroom one-bath <a href=\"http:\/\/tours.tourfactory.com\/tours\/tour.asp?t=1227122\" title=\"The listing.\">co-op<\/a> in an Art Deco doorman building, listed at $155,000. (917) 648-1192",
+            "copyright": "\u00c1ngel Franco\/The New York Times"
+        }]
+    }, {
+        "section": "N.Y. \/ Region",
+        "subsection": "",
+        "title": "East Coast Storm Threatens Thanksgiving Travel",
+        "abstract": "A mix of rain, sleet and snow in the New York area has slowed traffic, ground planes and forced scores of people to change their holiday plans.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/27\/nyregion\/east-coast-storm-thanksgiving-travel.html",
+        "byline": "By MARC SANTORA",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/WEATHER-top\/WEATHER-top-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:18:58-05:00",
+        "created_date": "2014-11-26T10:59:57-05:00",
+        "published_date": "2014-11-27T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": ["Snow and Snowstorms"],
+        "org_facet": ["National Weather Service"],
+        "per_facet": "",
+        "geo_facet": ["Northeastern States (US)", "New York City"],
+        "related_urls": null,
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/WEATHER-top\/WEATHER-top-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Employees at&nbsp;La Guardia Airport on Wednesday. Travelers are urged to leave earlier than planned because of holiday traffic and longer-than-usual security lines.",
+            "copyright": "Bryan Thomas for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/WEATHER-top\/WEATHER-top-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Employees at&nbsp;La Guardia Airport on Wednesday. Travelers are urged to leave earlier than planned because of holiday traffic and longer-than-usual security lines.",
+            "copyright": "Bryan Thomas for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/WEATHER-top\/WEATHER-top-articleInline.jpg",
+            "format": "Normal",
+            "height": 126,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Employees at&nbsp;La Guardia Airport on Wednesday. Travelers are urged to leave earlier than planned because of holiday traffic and longer-than-usual security lines.",
+            "copyright": "Bryan Thomas for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/WEATHER-top\/WEATHER-top-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Employees at&nbsp;La Guardia Airport on Wednesday. Travelers are urged to leave earlier than planned because of holiday traffic and longer-than-usual security lines.",
+            "copyright": "Bryan Thomas for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/WEATHER-small\/WEATHER-small-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The flight departure board at La Guardia Airport on Wednesday morning. More than 200 flights have already been canceled at New York area airports.",
+            "copyright": "Bryan Thomas for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/WEATHER-small\/WEATHER-small-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The flight departure board at La Guardia Airport on Wednesday morning. More than 200 flights have already been canceled at New York area airports.",
+            "copyright": "Bryan Thomas for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/WEATHER-small\/WEATHER-small-articleInline.jpg",
+            "format": "Normal",
+            "height": 126,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The flight departure board at La Guardia Airport on Wednesday morning. More than 200 flights have already been canceled at New York area airports.",
+            "copyright": "Bryan Thomas for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/WEATHER-small\/WEATHER-small-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The flight departure board at La Guardia Airport on Wednesday morning. More than 200 flights have already been canceled at New York area airports.",
+            "copyright": "Bryan Thomas for The New York Times"
+        }]
+    }, {
+        "section": "U.S.",
+        "subsection": "",
+        "title": "Justice Ginsburg Undergoes Heart Procedure",
+        "abstract": "Justice Ruth Bader Ginsburg, 81, had a stent placed in her right coronary artery after experiencing discomfort while exercising, a spokeswoman said.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/27\/us\/justice-ginsburg-undergoes-heart-procedure.html",
+        "byline": "By ADAM LIPTAK",
+        "thumbnail_standard": "",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:01:50-05:00",
+        "created_date": "2014-11-26T10:57:39-05:00",
+        "published_date": "2014-11-27T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": ["Stents (Medical Devices)"],
+        "org_facet": ["Supreme Court (US)"],
+        "per_facet": ["Ginsburg, Ruth Bader"],
+        "geo_facet": "",
+        "related_urls": null,
+        "multimedia": ""
+    }, {
+        "section": "World",
+        "subsection": "Asia Pacific",
+        "title": "Polio Workers Killed in Pakistan Attack",
+        "abstract": "Akbar Hussain Durrani, the home secretary of Baluchistan Province in Pakistan, said an attack on health care workers on Wednesday would not stop the country\u2019s anti-polio campaign.",
+        "url": "http:\/\/www.nytimes.com\/video\/world\/asia\/100000003257295\/polio-workers-killed-in-pakistan-attack.html",
+        "byline": "Associated Press",
+        "thumbnail_standard": "",
+        "item_type": "Video",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:03:35-05:00",
+        "created_date": "2014-11-26T10:56:38-05:00",
+        "published_date": "2014-11-26T00:00:00-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": ["Terrorism", "Poliomyelitis", "Murders, Attempted Murders and Homicides"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["Pakistan", "Baluchistan (Pakistan)"],
+        "related_urls": [{
+            "suggested_link_text": "Gunmen in Pakistan Kill 4 Members of Anti-Polio Campaign",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/27\/world\/asia\/gunmen-in-pakistan-kill-4-members-of-anti-polio-campaign.html"
+        }],
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/world\/27pakistan-video\/27pakistan-video-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "",
+            "caption": "",
+            "copyright": "Naseer Ahmed\/Reuters"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/world\/27pakistan-video\/27pakistan-video-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "",
+            "caption": "",
+            "copyright": "Naseer Ahmed\/Reuters"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/world\/27pakistan-video\/27pakistan-video-articleInline.jpg",
+            "format": "Normal",
+            "height": 107,
+            "width": 190,
+            "type": "image",
+            "subtype": "",
+            "caption": "",
+            "copyright": "Naseer Ahmed\/Reuters"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/world\/27pakistan-video\/27pakistan-video-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "",
+            "caption": "",
+            "copyright": "Naseer Ahmed\/Reuters"
+        }]
+    }, {
+        "section": "The Upshot",
+        "subsection": "",
+        "title": "Study on Voting Shows That Relatively Few People Lack Photo ID  ",
+        "abstract": "The Brennan Center for Justice points to large numbers of voters who can be disenfranchised, but that doesn\u2019t mean many election results will change.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/27\/upshot\/what-studies-show-about-the-effect-of-voter-id-laws.html",
+        "byline": "",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/upshot\/26up-brennan\/26up-brennan-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:17:52-05:00",
+        "created_date": "2014-11-26T10:48:07-05:00",
+        "published_date": "2014-11-27T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "The Upshot",
+        "subheadline": "",
+        "des_facet": ["Voter Registration and Requirements", "Identification Devices", "Elections"],
+        "org_facet": ["Brennan Center for Justice"],
+        "per_facet": "",
+        "geo_facet": ["Pennsylvania", "Texas"],
+        "related_urls": null,
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/upshot\/26up-brennan\/26up-brennan-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Examples of Mississippi voter ID cards were on display at the polls at the College Hill Community Center near Oxford, Miss., on Nov. 4.",
+            "copyright": "Bruce Newman\/Oxford Eagle, via Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/upshot\/26up-brennan\/26up-brennan-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Examples of Mississippi voter ID cards were on display at the polls at the College Hill Community Center near Oxford, Miss., on Nov. 4.",
+            "copyright": "Bruce Newman\/Oxford Eagle, via Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/upshot\/26up-brennan\/26up-brennan-articleInline.jpg",
+            "format": "Normal",
+            "height": 123,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Examples of Mississippi voter ID cards were on display at the polls at the College Hill Community Center near Oxford, Miss., on Nov. 4.",
+            "copyright": "Bruce Newman\/Oxford Eagle, via Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/upshot\/26up-brennan\/26up-brennan-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Examples of Mississippi voter ID cards were on display at the polls at the College Hill Community Center near Oxford, Miss., on Nov. 4.",
+            "copyright": "Bruce Newman\/Oxford Eagle, via Associated Press"
+        }]
+    }, {
+        "section": "Sports",
+        "subsection": "Soccer",
+        "title": "Sergio Ag\u00fcero a One-Man Rescue Team for City",
+        "abstract": "Ag\u00fcero scored a hat trick as Manchester City stayed alive in the Champions League with a 3-2 comeback victory over Bayern Munich.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/27\/sports\/soccer\/sergio-agero-a-one-man-rescue-team-for-city.html",
+        "byline": "By ROB HUGHES",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/sports\/27hughes-1\/27hughes-1-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "International New York Times",
+        "updated_date": "2014-11-26T10:35:09-05:00",
+        "created_date": "2014-11-26T10:35:10-05:00",
+        "published_date": "2014-11-27T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": ["Soccer", "UEFA European Football Championship"],
+        "org_facet": ["Manchester City (Soccer Team)", "Bayern Munich (Soccer Team)", "Barcelona (Soccer Team)"],
+        "per_facet": ["Messi, Lionel", "Aguero, Sergio"],
+        "geo_facet": "",
+        "related_urls": null,
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/sports\/27hughes-1\/27hughes-1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "So far this season, Sergio Ag&uuml;ero has taken to the field in 18 games and scored 17 goals.",
+            "copyright": "Phil Noble\/Reuters"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/sports\/27hughes-1\/27hughes-1-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "So far this season, Sergio Ag&uuml;ero has taken to the field in 18 games and scored 17 goals.",
+            "copyright": "Phil Noble\/Reuters"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/sports\/27hughes-1\/27hughes-1-articleInline.jpg",
+            "format": "Normal",
+            "height": 130,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "So far this season, Sergio Ag&uuml;ero has taken to the field in 18 games and scored 17 goals.",
+            "copyright": "Phil Noble\/Reuters"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/sports\/27hughes-1\/27hughes-1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "So far this season, Sergio Ag&uuml;ero has taken to the field in 18 games and scored 17 goals.",
+            "copyright": "Phil Noble\/Reuters"
+        }]
+    }, {
+        "section": "N.Y. \/ Region",
+        "subsection": "",
+        "title": "New York Schools Missing Out on Millions in Technology Funding, Comptroller Says",
+        "abstract": "Comptroller Scott M. Stringer said the city has so far been barred from receiving as much as $120 million from the federal government because of an investigation into the Education Department.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/27\/nyregion\/new-york-schools-missing-out-on-millions-in-technology-funding-comptroller-says.html",
+        "byline": "By ELIZABETH A. HARRIS",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/SCHOOLSweb\/SCHOOLSweb-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T10:42:12-05:00",
+        "created_date": "2014-11-26T10:34:44-05:00",
+        "published_date": "2014-11-27T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": "",
+        "org_facet": ["Education Department (NYC)", "Federal Communications Commission"],
+        "per_facet": ["Stringer, Scott M"],
+        "geo_facet": ["New York City"],
+        "related_urls": null,
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/SCHOOLSweb\/SCHOOLSweb-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Scott M. Stringer, the New York City comptroller, said that the Education Department was \"leaving hundreds of millions of dollars on the table when it comes to connecting our kids to 21st century technology.&rdquo;",
+            "copyright": "Bebeto Matthews\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/SCHOOLSweb\/SCHOOLSweb-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Scott M. Stringer, the New York City comptroller, said that the Education Department was \"leaving hundreds of millions of dollars on the table when it comes to connecting our kids to 21st century technology.&rdquo;",
+            "copyright": "Bebeto Matthews\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/SCHOOLSweb\/SCHOOLSweb-articleInline.jpg",
+            "format": "Normal",
+            "height": 233,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Scott M. Stringer, the New York City comptroller, said that the Education Department was \"leaving hundreds of millions of dollars on the table when it comes to connecting our kids to 21st century technology.&rdquo;",
+            "copyright": "Bebeto Matthews\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/nyregion\/SCHOOLSweb\/SCHOOLSweb-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Scott M. Stringer, the New York City comptroller, said that the Education Department was \"leaving hundreds of millions of dollars on the table when it comes to connecting our kids to 21st century technology.&rdquo;",
+            "copyright": "Bebeto Matthews\/Associated Press"
+        }]
+    }, {
+        "section": "Magazine",
+        "subsection": "",
+        "title": "The Mine Disaster That Shook Turkey",
+        "abstract": "A mine fire in May killed 301 men, making it the worst industrial disaster in Turkish history. This is the story of two men who lived through it. ",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/the-mine-disaster-that-shook-turkey.html",
+        "byline": "By SUZY HANSEN",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine1\/30mag-30mine.t_CA3-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T10:22:03-05:00",
+        "created_date": "2014-11-26T10:22:04-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": ["Soma, Turkey, Mining Disaster (2014)", "Mines and Mining", "Explosions (Accidental)"],
+        "org_facet": ["Justice and Development Party (Turkey)"],
+        "per_facet": "",
+        "geo_facet": ["Turkey", "Soma (Turkey)"],
+        "related_urls": [{
+            "suggested_link_text": "Angry Turks Demand Answers After Mine Disaster",
+            "url": "http:\/\/www.nytimes.com\/2014\/05\/15\/world\/europe\/rescuers-seek-survivors-in-turkey-mine-disaster.html"
+        }, {
+            "suggested_link_text": "Public\u2019s Outrage Over Mine Disaster Casts Harsh Light on Turkey\u2019s Premier",
+            "url": "http:\/\/www.nytimes.com\/2014\/05\/17\/world\/europe\/turkish-authorities-say-miners-still-missing.html"
+        }, {
+            "suggested_link_text": "As Turkish Mine Yields the Last Body, Recriminations Remain",
+            "url": "http:\/\/www.nytimes.com\/2014\/05\/18\/world\/europe\/soma-turkey-mine-explosion.html"
+        }],
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine1\/30mag-30mine.t_CA3-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ahmet (seated center) with his daughter, Duygu, and his wife, Tugba (far left). Also pictured are Ahmet&rsquo;s mother and other members of his family.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine1\/30mag-30mine.t_CA3-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ahmet (seated center) with his daughter, Duygu, and his wife, Tugba (far left). Also pictured are Ahmet&rsquo;s mother and other members of his family.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine1\/30mag-30mine.t_CA3-articleInline.jpg",
+            "format": "Normal",
+            "height": 127,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ahmet (seated center) with his daughter, Duygu, and his wife, Tugba (far left). Also pictured are Ahmet&rsquo;s mother and other members of his family.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine1\/30mag-30mine.t_CA3-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ahmet (seated center) with his daughter, Duygu, and his wife, Tugba (far left). Also pictured are Ahmet&rsquo;s mother and other members of his family.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine2\/30mag-30mine.t_CA1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Conveyor belts are used to transport coal from open-pit mines to the power plant outside Soma, Turkey.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine2\/30mag-30mine.t_CA1-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Conveyor belts are used to transport coal from open-pit mines to the power plant outside Soma, Turkey.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine2\/30mag-30mine.t_CA1-articleInline.jpg",
+            "format": "Normal",
+            "height": 127,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Conveyor belts are used to transport coal from open-pit mines to the power plant outside Soma, Turkey.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine2\/30mag-30mine.t_CA1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Conveyor belts are used to transport coal from open-pit mines to the power plant outside Soma, Turkey.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine-map1\/30mine-map1-thumbStandard.png",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": ""
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine-map1\/30mine-map1-articleInline.png",
+            "format": "Normal",
+            "height": 136,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": ""
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine-map1\/30mine-map1-thumbLarge.png",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": ""
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine-map1\/30mine-map1-mediumThreeByTwo210.png",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": ""
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine3\/30mag-30mine.t_CA0-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tevrat (right), a miner who helped rescue men from the Eynez mine, with a friend.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine3\/30mag-30mine.t_CA0-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tevrat (right), a miner who helped rescue men from the Eynez mine, with a friend.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine3\/30mag-30mine.t_CA0-articleInline.jpg",
+            "format": "Normal",
+            "height": 127,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tevrat (right), a miner who helped rescue men from the Eynez mine, with a friend.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine3\/30mag-30mine.t_CA0-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tevrat (right), a miner who helped rescue men from the Eynez mine, with a friend.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine4\/30mag-30mine.t_CA2-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue efforts at the Eynez mine.",
+            "copyright": "Cem Oksuz\/Anadolu Agency\/Getty Images"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine4\/30mag-30mine.t_CA2-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue efforts at the Eynez mine.",
+            "copyright": "Cem Oksuz\/Anadolu Agency\/Getty Images"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine4\/30mag-30mine.t_CA2-articleInline.jpg",
+            "format": "Normal",
+            "height": 255,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue efforts at the Eynez mine.",
+            "copyright": "Cem Oksuz\/Anadolu Agency\/Getty Images"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine4\/30mag-30mine.t_CA2-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Rescue efforts at the Eynez mine.",
+            "copyright": "Cem Oksuz\/Anadolu Agency\/Getty Images"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine5\/30mine5-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The area in Soma Cemetery where 39 miners are buried.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine5\/30mine5-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The area in Soma Cemetery where 39 miners are buried.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine5\/30mine5-articleInline.jpg",
+            "format": "Normal",
+            "height": 127,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The area in Soma Cemetery where 39 miners are buried.",
+            "copyright": "George Georgiou for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30mine5\/30mine5-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The area in Soma Cemetery where 39 miners are buried.",
+            "copyright": "George Georgiou for The New York Times"
+        }]
+    }, {
+        "section": "Magazine",
+        "subsection": "",
+        "title": "The Military\u2019s Rough Justice on Sexual Assault",
+        "abstract": "Why it\u2019s so hard to prosecute crimes and protect the victims.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/the-militarys-rough-justice-on-sexual-assault.html",
+        "byline": "By ROBERT DRAPER",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults1\/30mag-30assaults.t_CA4-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:11:00-05:00",
+        "created_date": "2014-11-26T10:22:02-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": ["United States Defense and Military Forces", "Courts-Martial"],
+        "org_facet": ["Defense Department", "United States Air Force"],
+        "per_facet": ["Christensen, Don", "Gillibrand, Kirsten E", "Hagel, Chuck"],
+        "geo_facet": "",
+        "related_urls": [{
+            "suggested_link_text": "Pentagon Study Finds 50% Increase in Reports of Military Sexual Assaults",
+            "url": "http:\/\/www.nytimes.com\/2014\/05\/02\/us\/military-sex-assault-report.html"
+        }, {
+            "suggested_link_text": "How a Military Sexual Assault Case Foundered",
+            "url": "http:\/\/www.nytimes.com\/2014\/03\/13\/us\/how-a-military-sexual-assault-case-foundered.html"
+        }, {
+            "suggested_link_text": "Senate Rejects Blocking Military Commanders From Sexual Assault Cases",
+            "url": "http:\/\/www.nytimes.com\/2014\/03\/07\/us\/politics\/military-sexual-assault-legislation.html"
+        }, {
+            "suggested_link_text": "Reports of Military Sexual Assault Rise Sharply",
+            "url": "http:\/\/www.nytimes.com\/2013\/11\/07\/us\/reports-of-military-sexual-assault-rise-sharply.html"
+        }],
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults1\/30mag-30assaults.t_CA4-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Kris, the only woman among 70 aviators in her squadron, was assaulted by another officer.",
+            "copyright": "Alec Soth\/Magnum, for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults1\/30mag-30assaults.t_CA4-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Kris, the only woman among 70 aviators in her squadron, was assaulted by another officer.",
+            "copyright": "Alec Soth\/Magnum, for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults1\/30mag-30assaults.t_CA4-articleInline.jpg",
+            "format": "Normal",
+            "height": 142,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Kris, the only woman among 70 aviators in her squadron, was assaulted by another officer.",
+            "copyright": "Alec Soth\/Magnum, for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults1\/30mag-30assaults.t_CA4-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Kris, the only woman among 70 aviators in her squadron, was assaulted by another officer.",
+            "copyright": "Alec Soth\/Magnum, for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults2\/30mag-30assaults.t_CA1-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>THE CIVILIAN<\/strong> | Kim Hanks's assailant was found guilty, but the verdict was overturned by his general.",
+            "copyright": "Dru Donovan for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults2\/30mag-30assaults.t_CA1-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>THE CIVILIAN<\/strong> | Kim Hanks's assailant was found guilty, but the verdict was overturned by his general.",
+            "copyright": "Dru Donovan for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults2\/30mag-30assaults.t_CA1-articleInline.jpg",
+            "format": "Normal",
+            "height": 253,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>THE CIVILIAN<\/strong> | Kim Hanks's assailant was found guilty, but the verdict was overturned by his general.",
+            "copyright": "Dru Donovan for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults2\/30mag-30assaults.t_CA1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>THE CIVILIAN<\/strong> | Kim Hanks's assailant was found guilty, but the verdict was overturned by his general.",
+            "copyright": "Dru Donovan for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults3\/30mag-30assaults.t_CA0-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>THE PROSECUTOR<\/strong> | Don Christensen has worked on more than 300 cases of sexual assault in the Air Force.",
+            "copyright": "Alec Soth\/Magnum, for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults3\/30mag-30assaults.t_CA0-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>THE PROSECUTOR<\/strong> | Don Christensen has worked on more than 300 cases of sexual assault in the Air Force.",
+            "copyright": "Alec Soth\/Magnum, for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults3\/30mag-30assaults.t_CA0-articleInline.jpg",
+            "format": "Normal",
+            "height": 253,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>THE PROSECUTOR<\/strong> | Don Christensen has worked on more than 300 cases of sexual assault in the Air Force.",
+            "copyright": "Alec Soth\/Magnum, for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults3\/30mag-30assaults.t_CA0-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>THE PROSECUTOR<\/strong> | Don Christensen has worked on more than 300 cases of sexual assault in the Air Force.",
+            "copyright": "Alec Soth\/Magnum, for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults4-5\/30assaults4-5-thumbStandard-v3.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>UNILATERAL CLEMENCY <\/strong>| Lt. Col. James Wilkerson, left, was found guilty of sexual assault, but Gen. Craig Franklin, right, used his authority to overturn the jury&rsquo;s decision.",
+            "copyright": "The United States Air Force"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults4-5\/30assaults4-5-thumbLarge-v3.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>UNILATERAL CLEMENCY <\/strong>| Lt. Col. James Wilkerson, left, was found guilty of sexual assault, but Gen. Craig Franklin, right, used his authority to overturn the jury&rsquo;s decision.",
+            "copyright": "The United States Air Force"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults4-5\/30assaults4-5-articleInline-v2.jpg",
+            "format": "Normal",
+            "height": 114,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>UNILATERAL CLEMENCY <\/strong>| Lt. Col. James Wilkerson, left, was found guilty of sexual assault, but Gen. Craig Franklin, right, used his authority to overturn the jury&rsquo;s decision.",
+            "copyright": "The United States Air Force"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults4-5\/30assaults4-5-mediumThreeByTwo210-v3.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>UNILATERAL CLEMENCY <\/strong>| Lt. Col. James Wilkerson, left, was found guilty of sexual assault, but Gen. Craig Franklin, right, used his authority to overturn the jury&rsquo;s decision.",
+            "copyright": "The United States Air Force"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults6-7\/30assaults6-7-thumbStandard-v3.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>A BROTHERHOOD<\/strong> | After Capt. David Brooks, left, was found guilty of sexual assault, Lt. Col. Stuart Newberry, right, and others from his squad unsuccessfully petitioned for him to be reinstated.",
+            "copyright": ""
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults6-7\/30assaults6-7-thumbLarge-v3.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>A BROTHERHOOD<\/strong> | After Capt. David Brooks, left, was found guilty of sexual assault, Lt. Col. Stuart Newberry, right, and others from his squad unsuccessfully petitioned for him to be reinstated.",
+            "copyright": ""
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults6-7\/30assaults6-7-articleInline-v2.jpg",
+            "format": "Normal",
+            "height": 114,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>A BROTHERHOOD<\/strong> | After Capt. David Brooks, left, was found guilty of sexual assault, Lt. Col. Stuart Newberry, right, and others from his squad unsuccessfully petitioned for him to be reinstated.",
+            "copyright": ""
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30assaults6-7\/30assaults6-7-mediumThreeByTwo210-v3.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "<strong>A BROTHERHOOD<\/strong> | After Capt. David Brooks, left, was found guilty of sexual assault, Lt. Col. Stuart Newberry, right, and others from his squad unsuccessfully petitioned for him to be reinstated.",
+            "copyright": ""
+        }]
+    }, {
+        "section": "Magazine",
+        "subsection": "",
+        "title": "Should Free Office Food Be Taken Home?",
+        "abstract": "The breakfast club; Preparation L (for lie).",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/should-free-office-food-be-taken-home.html",
+        "byline": "By CHUCK KLOSTERMAN",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30ethicist\/30ethicist-thumbStandard-v3.png",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T10:21:53-05:00",
+        "created_date": "2014-11-26T10:21:54-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "The Ethicist",
+        "subheadline": "",
+        "des_facet": ["Ethicist, The (Times Column)", "Ethics (Personal)", "Medicine and Health"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "related_urls": null,
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30ethicist\/30ethicist-thumbStandard-v3.png",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by Louise Pomeroy"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30ethicist\/30ethicist-thumbLarge-v3.png",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by Louise Pomeroy"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30ethicist\/30ethicist-articleInline-v2.png",
+            "format": "Normal",
+            "height": 104,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by Louise Pomeroy"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30ethicist\/30ethicist-mediumThreeByTwo210-v3.png",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by Louise Pomeroy"
+        }]
+    }, {
+        "section": "Magazine",
+        "subsection": "",
+        "title": "Sarah Koenig Can\u2019t Promise a Perfect Ending to \u2018Serial\u2019",
+        "abstract": "Despite the wild popularity of the weekly true-crime podcast on \u201cThis American Life,\u201d the host insists on managing listener expectations.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/sarah-koenig-cant-promise-a-perfect-ending-to-serial.html",
+        "byline": "By TAFFY BRODESSER-AKNER",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30talk\/30talk-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T10:32:19-05:00",
+        "created_date": "2014-11-26T10:21:52-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "Talk",
+        "subheadline": "",
+        "des_facet": ["Podcasts", "Crime and Criminals", "Murders, Attempted Murders and Homicides"],
+        "org_facet": "",
+        "per_facet": ["Sarah Koenig"],
+        "geo_facet": "",
+        "related_urls": [{
+            "suggested_link_text": "\u2018Serial,\u2019 Podcasting\u2019s First Breakout Hit, Sets Stage for More",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/24\/business\/media\/serial-podcastings-first-breakout-hit-sets-stage-for-more.html"
+        }, {
+            "suggested_link_text": "The RZA: \u2018A Servant Sometimes Needs to Be Served\u2019",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/23\/magazine\/the-rza-a-servant-sometimes-needs-to-be-served.html"
+        }, {
+            "suggested_link_text": "Nina Jacobson Isn\u2019t Afraid to Fight Hollywood\u2019s Old Guard",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/16\/magazine\/nina-jacobson-isnt-afraid-to-fight-hollywoods-old-guard.html"
+        }, {
+            "suggested_link_text": "Garry Trudeau on Bringing His Political Satire to TV",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/09\/magazine\/garry-trudeau-on-bringing-his-political-satire-to-tv.html"
+        }, {
+            "suggested_link_text": "Megan Smith: \u2018You Can Affect Billions of People\u2019",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/02\/magazine\/megan-smith-you-can-affect-billions-of-people.html"
+        }],
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30talk\/30talk-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Sarah Koenig",
+            "copyright": "Christian Oth for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30talk\/30talk-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Sarah Koenig",
+            "copyright": "Christian Oth for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30talk\/30talk-articleInline.jpg",
+            "format": "Normal",
+            "height": 321,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Sarah Koenig",
+            "copyright": "Christian Oth for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30talk\/30talk-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Sarah Koenig",
+            "copyright": "Christian Oth for The New York Times"
+        }]
+    }, {
+        "section": "Magazine",
+        "subsection": "",
+        "title": "Two Cocktails to Chill Your Chill Away",
+        "abstract": "Distilled spirits can warm us up even when we cool them down.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/two-cocktails-to-chill-your-chill-away.html",
+        "byline": "By ROSIE SCHAAP",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30drink1\/30drink1-thumbStandard-v3.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T10:21:50-05:00",
+        "created_date": "2014-11-26T10:21:51-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "Drink",
+        "subheadline": "",
+        "des_facet": ["Recipes", "Cocktails", "Alcoholic Beverages", "Liquor"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["England"],
+        "related_urls": null,
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30drink1\/30drink1-thumbStandard-v3.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Brandy Alexander",
+            "copyright": "Sarah Anne Ward for The New York Times. Prop stylist: Maeve Sheridan."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30drink1\/30drink1-thumbLarge-v3.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Brandy Alexander",
+            "copyright": "Sarah Anne Ward for The New York Times. Prop stylist: Maeve Sheridan."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30drink1\/30drink1-articleInline-v3.jpg",
+            "format": "Normal",
+            "height": 140,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Brandy Alexander",
+            "copyright": "Sarah Anne Ward for The New York Times. Prop stylist: Maeve Sheridan."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30drink1\/30drink1-mediumThreeByTwo210-v3.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Brandy Alexander",
+            "copyright": "Sarah Anne Ward for The New York Times. Prop stylist: Maeve Sheridan."
+        }]
+    }, {
+        "section": "Magazine",
+        "subsection": "",
+        "title": "The Iguana in the Bathtub",
+        "abstract": "Hard lessons on a cold day in Florida.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/the-iguana-in-the-bathtub.html",
+        "byline": "By ANNE DOTEN",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30lives1\/30lives1-thumbStandard-v2.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T10:21:49-05:00",
+        "created_date": "2014-11-26T10:21:50-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "Lives",
+        "subheadline": "",
+        "des_facet": ["Lizards", "Hibernation", "Death and Dying"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["Florida"],
+        "related_urls": [{
+            "suggested_link_text": "Rules of Engagement",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/23\/magazine\/rules-of-engagement.html"
+        }, {
+            "suggested_link_text": "My Country of Origin? It\u2019s Complicated",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/16\/magazine\/my-country-of-origin-its-complicated.html"
+        }, {
+            "suggested_link_text": "When Your Childhood Home Isn\u2019t How You Remember It",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/09\/magazine\/when-your-childhood-home-isnt-how-you-remember-it.html"
+        }, {
+            "suggested_link_text": "The Good Student in North Korea",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/02\/magazine\/the-good-student-in-north-korea.html"
+        }],
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30lives1\/30lives1-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by Melinda Josie"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30lives1\/30lives1-articleInline.jpg",
+            "format": "Normal",
+            "height": 93,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by Melinda Josie"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30lives1\/30lives1-thumbLarge-v2.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by Melinda Josie"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30lives1\/30lives1-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Illustration by Melinda Josie"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30lives2\/30lives2-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Anne Doten",
+            "copyright": "John Maga\u00f1a"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30lives2\/30lives2-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Anne Doten",
+            "copyright": "John Maga\u00f1a"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30lives2\/30lives2-articleInline-v2.jpg",
+            "format": "Normal",
+            "height": 245,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Anne Doten",
+            "copyright": "John Maga\u00f1a"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30lives2\/30lives2-mediumThreeByTwo210-v2.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Anne Doten",
+            "copyright": "John Maga\u00f1a"
+        }]
+    }, {
+        "section": "Magazine",
+        "subsection": "",
+        "title": "Sri Lankan Kottu Roti, by Way of Staten Island",
+        "abstract": "The country\u2019s beloved street dish\u2014made with flaky flatbread, eggs and aromatics\u2014is part food, part show.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/sri-lankan-kottu-roti-by-way-of-staten-island.html",
+        "byline": "By FRANCIS LAM",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30eat1\/30eat1-thumbStandard-v2.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T10:29:06-05:00",
+        "created_date": "2014-11-26T10:21:47-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "Eat",
+        "subheadline": "",
+        "des_facet": ["Cooking and Cookbooks"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["Sri Lanka"],
+        "related_urls": null,
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30eat1\/30eat1-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Chicken Kottu Roti",
+            "copyright": "Christopher Testani for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30eat1\/30eat1-thumbLarge-v2.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Chicken Kottu Roti",
+            "copyright": "Christopher Testani for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30eat1\/30eat1-articleInline-v2.jpg",
+            "format": "Normal",
+            "height": 185,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Chicken Kottu Roti",
+            "copyright": "Christopher Testani for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30eat1\/30eat1-mediumThreeByTwo210-v3.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Chicken Kottu Roti",
+            "copyright": "Christopher Testani for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30eat2\/30eat2-thumbStandard-v2.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Roti",
+            "copyright": "Christopher Testani for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30eat2\/30eat2-thumbLarge-v2.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Roti",
+            "copyright": "Christopher Testani for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30eat2\/30eat2-articleInline-v2.jpg",
+            "format": "Normal",
+            "height": 191,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Roti",
+            "copyright": "Christopher Testani for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30eat2\/30eat2-mediumThreeByTwo210-v2.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Roti",
+            "copyright": "Christopher Testani for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Pamela Duncan Silver."
+        }]
+    }, {
+        "section": "Magazine",
+        "subsection": "",
+        "title": "Reply All: The 11.16.14 Issue",
+        "abstract": "Readers respond.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/reply-all-the-111614-issue.html",
+        "byline": "",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/16\/magazine\/16cover-copy\/16cover-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T10:21:45-05:00",
+        "created_date": "2014-11-26T10:21:46-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "Reply All",
+        "subheadline": "",
+        "des_facet": "",
+        "org_facet": ["Apple Inc|AAPL|NASDAQ", "Boeing Company|BA|NYSE"],
+        "per_facet": "",
+        "geo_facet": "",
+        "related_urls": null,
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/16\/magazine\/16cover-copy\/16cover-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Photo illustration by Sam Kaplan "
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/16\/magazine\/16cover-copy\/16cover-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Photo illustration by Sam Kaplan "
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/16\/magazine\/16cover-copy\/16cover-articleInline.jpg",
+            "format": "Normal",
+            "height": 224,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Photo illustration by Sam Kaplan "
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/16\/magazine\/16cover-copy\/16cover-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Photo illustration by Sam Kaplan "
+        }]
+    }, {
+        "section": "Magazine",
+        "subsection": "",
+        "title": "Theo Jansen\u2019s Lumbering Life-Forms Arrive in America",
+        "abstract": "The Dutch artist is taking his strandbeests \u2014 huge, self-propelled, beach-striding contraptions made of PVC tubes \u2014 to Art Basel in Miami Beach.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/30\/magazine\/theo-jansens-lumbering-life-forms-arrive-in-america.html",
+        "byline": "By LAWRENCE WESCHLER",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest1\/30strandbeest1-thumbStandard-v3.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T10:23:34-05:00",
+        "created_date": "2014-11-26T10:21:46-05:00",
+        "published_date": "2014-11-30T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": ["Art", "Engineering and Engineers"],
+        "org_facet": "",
+        "per_facet": ["Jansen, Theo"],
+        "geo_facet": ["Netherlands"],
+        "related_urls": [{
+            "suggested_link_text": "How a Pair of Twins Redrew an Iconic Photograph With Camera-Like Precision",
+            "url": "http:\/\/www.nytimes.com\/2014\/08\/17\/magazine\/how-a-pair-of-twins-redrew-an-iconic-photograph-with-camera-like-precision.html"
+        }, {
+            "suggested_link_text": "The Continuing Evolution of Genes",
+            "url": "http:\/\/www.nytimes.com\/2014\/04\/29\/science\/the-continuing-evolution-of-genes.html"
+        }],
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest1\/30strandbeest1-thumbStandard-v3.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Jaap Scheeren for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest1\/30strandbeest1-thumbLarge-v3.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Jaap Scheeren for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest1\/30strandbeest1-articleInline-v2.jpg",
+            "format": "Normal",
+            "height": 136,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Jaap Scheeren for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest1\/30strandbeest1-mediumThreeByTwo210-v3.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Jaap Scheeren for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest2\/30strandbeest2-thumbStandard-v3.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Theo Jansen oversees the loading of several strandbeests into their shipping containers.",
+            "copyright": "Jaap Scheeren for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest2\/30strandbeest2-thumbLarge-v3.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Theo Jansen oversees the loading of several strandbeests into their shipping containers.",
+            "copyright": "Jaap Scheeren for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest2\/30strandbeest2-articleInline-v2.jpg",
+            "format": "Normal",
+            "height": 285,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Theo Jansen oversees the loading of several strandbeests into their shipping containers.",
+            "copyright": "Jaap Scheeren for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest2\/30strandbeest2-mediumThreeByTwo210-v3.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Theo Jansen oversees the loading of several strandbeests into their shipping containers.",
+            "copyright": "Jaap Scheeren for The New York Times"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest3\/30strandbeest3-thumbStandard-v3.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Jansen and his assistants carry part of a strandbeest to a shipping container for its trip to the United States.",
+            "copyright": "Jaap Scheeren for The New York Times "
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest3\/30strandbeest3-thumbLarge-v3.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Jansen and his assistants carry part of a strandbeest to a shipping container for its trip to the United States.",
+            "copyright": "Jaap Scheeren for The New York Times "
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest3\/30strandbeest3-articleInline-v2.jpg",
+            "format": "Normal",
+            "height": 136,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Jansen and his assistants carry part of a strandbeest to a shipping container for its trip to the United States.",
+            "copyright": "Jaap Scheeren for The New York Times "
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest3\/30strandbeest3-mediumThreeByTwo210-v3.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Jansen and his assistants carry part of a strandbeest to a shipping container for its trip to the United States.",
+            "copyright": "Jaap Scheeren for The New York Times "
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest4\/30strandbeest4-thumbStandard-v3.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The leg of Animaris Vulgaris, an early strandbeest model, with joints made from tape.",
+            "copyright": "Johannes Niemeijer"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest4\/30strandbeest4-articleInline-v3.jpg",
+            "format": "Normal",
+            "height": 250,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The leg of Animaris Vulgaris, an early strandbeest model, with joints made from tape.",
+            "copyright": "Johannes Niemeijer"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest4\/30strandbeest4-thumbLarge-v3.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The leg of Animaris Vulgaris, an early strandbeest model, with joints made from tape.",
+            "copyright": "Johannes Niemeijer"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/30\/magazine\/30strandbeest4\/30strandbeest4-mediumThreeByTwo210-v3.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The leg of Animaris Vulgaris, an early strandbeest model, with joints made from tape.",
+            "copyright": "Johannes Niemeijer"
+        }]
+    }, {
+        "section": "World",
+        "subsection": "Asia Pacific",
+        "title": "Hong Kong Protesters Reoccupy Parts of Mong Kok Neighborhood",
+        "abstract": "Hours after the police cleared one of Hong Kong\u2019s busiest shopping streets of encamped protesters on Wednesday, demonstrators gathered in force again.",
+        "url": "http:\/\/www.nytimes.com\/2014\/11\/27\/world\/asia\/hong-kong-protests-mong-kok.html",
+        "byline": "By MICHAEL FORSYTHE and AUSTIN RAMZY",
+        "thumbnail_standard": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/world\/27HONGKONG\/27HONGKONG-thumbStandard.jpg",
+        "item_type": "Article",
+        "source": "The New York Times",
+        "updated_date": "2014-11-26T11:17:53-05:00",
+        "created_date": "2014-11-26T10:17:26-05:00",
+        "published_date": "2014-11-27T00:00:00-05:00",
+        "material_type_facet": "News",
+        "kicker": "",
+        "subheadline": "",
+        "des_facet": ["Demonstrations, Protests and Riots"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["Hong Kong", "China"],
+        "related_urls": [{
+            "suggested_link_text": "Hong Kong Police Remove Protesters\u2019 Camp After a Night of Chaotic Clashes",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/26\/world\/asia\/hong-kong-police-protest-camp.html"
+        }, {
+            "suggested_link_text": "Factions Seeking Escalation Put Pressure on Hong Kong Protest ",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/25\/world\/asia\/a-struggle-for-the-soul-of-hong-kongs-protest-movement.html"
+        }, {
+            "suggested_link_text": "Fracas Puts Hong Kong Protests in New Light",
+            "url": "http:\/\/www.nytimes.com\/2014\/11\/20\/world\/asia\/fracas-puts-hong-kong-protests-in-new-light.html"
+        }, {
+            "suggested_link_text": "Beating of Democracy Advocate in Hong Kong Fuels Public Outcry",
+            "url": "http:\/\/www.nytimes.com\/2014\/10\/16\/world\/asia\/video-of-apparent-beating-of-protester-in-hong-kong-stirs-anger.html"
+        }],
+        "multimedia": [{
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/world\/27HONGKONG\/27HONGKONG-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Police officers cleared barricades while others tore down tents and carried away gear in the Mong Kok district of Hong Kong on Wednesday.",
+            "copyright": "Vincent Yu\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/world\/27HONGKONG\/27HONGKONG-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Police officers cleared barricades while others tore down tents and carried away gear in the Mong Kok district of Hong Kong on Wednesday.",
+            "copyright": "Vincent Yu\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/world\/27HONGKONG\/27HONGKONG-articleInline.jpg",
+            "format": "Normal",
+            "height": 127,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Police officers cleared barricades while others tore down tents and carried away gear in the Mong Kok district of Hong Kong on Wednesday.",
+            "copyright": "Vincent Yu\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/27\/world\/27HONGKONG\/27HONGKONG-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Police officers cleared barricades while others tore down tents and carried away gear in the Mong Kok district of Hong Kong on Wednesday.",
+            "copyright": "Vincent Yu\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/asia\/27hongkong\/26hongkong-thumbStandard.jpg",
+            "format": "Standard Thumbnail",
+            "height": 75,
+            "width": 75,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Police tried to stop protesters from blocking a road in Mong Kok on Wednesday.",
+            "copyright": "Kin Cheung\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/asia\/27hongkong\/26hongkong-thumbLarge.jpg",
+            "format": "thumbLarge",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Police tried to stop protesters from blocking a road in Mong Kok on Wednesday.",
+            "copyright": "Kin Cheung\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/asia\/27hongkong\/26hongkong-articleInline.jpg",
+            "format": "Normal",
+            "height": 130,
+            "width": 190,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Police tried to stop protesters from blocking a road in Mong Kok on Wednesday.",
+            "copyright": "Kin Cheung\/Associated Press"
+        }, {
+            "url": "http:\/\/graphics8.nytimes.com\/images\/2014\/11\/26\/world\/asia\/27hongkong\/26hongkong-mediumThreeByTwo210.jpg",
+            "format": "mediumThreeByTwo210",
+            "height": 140,
+            "width": 210,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Police tried to stop protesters from blocking a road in Mong Kok on Wednesday.",
+            "copyright": "Kin Cheung\/Associated Press"
+        }]
+    }]
+}

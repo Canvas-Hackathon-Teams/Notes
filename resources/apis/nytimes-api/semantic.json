@@ -1,0 +1,109 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2014 The New York Times Company.  All Rights Reserved.",
+    "source_database": "slave",
+    "more_results": true,
+    "results": [{
+        "concept_name": "Damascus (Syria)",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo"
+    }, {
+        "concept_name": "Syria",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo"
+    }, {
+        "concept_name": "Aleppo (Syria)",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo"
+    }, {
+        "concept_name": "Dara'a (Syria)",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo"
+    }, {
+        "concept_name": "Hama (Syria)",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo"
+    }, {
+        "concept_name": "Chicago Assyrian Dictionary (Book)",
+        "is_times_tag": 0,
+        "concept_status": "Active",
+        "concept_type": "nytd_ttl"
+    }, {
+        "concept_name": "Democratic Union Party (Syria)",
+        "is_times_tag": 0,
+        "concept_status": "Active",
+        "concept_type": "nytd_org"
+    }, {
+        "concept_name": "Free Syrian Army",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_org"
+    }, {
+        "concept_name": "National Coalition of Syrian Revolutionary and Opposition Forces",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_org"
+    }, {
+        "concept_name": "National Initiative for Change (Syria)",
+        "is_times_tag": 0,
+        "concept_status": "Active",
+        "concept_type": "nytd_org"
+    }, {
+        "concept_name": "St Thomas Syrian Orthodox Knanaya Church",
+        "is_times_tag": 0,
+        "concept_status": "Active",
+        "concept_type": "nytd_org"
+    }, {
+        "concept_name": "Syria Report, The",
+        "is_times_tag": 0,
+        "concept_status": "Active",
+        "concept_type": "nytd_org"
+    }, {
+        "concept_name": "Syrian National Council",
+        "is_times_tag": 0,
+        "concept_status": "Active",
+        "concept_type": "nytd_org"
+    }, {
+        "concept_name": "Syrian Support Group",
+        "is_times_tag": 0,
+        "concept_status": "Active",
+        "concept_type": "nytd_org"
+    }, {
+        "concept_name": "Syriatel",
+        "is_times_tag": 0,
+        "concept_status": "Active",
+        "concept_type": "nytd_org"
+    }, {
+        "concept_name": "Daret Azzeh (Syria)",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo"
+    }, {
+        "concept_name": "Homs (Syria)",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo"
+    }, {
+        "concept_name": "Houla (Syria)",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo",
+        "concept_uri": "http:\/\/data.nytimes.com\/111"
+    }, {
+        "concept_name": "Latakia (Syria)",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo",
+        "concept_uri": "http:\/\/data.nytimes.com\/111"
+    }, {
+        "concept_name": "Qubeir (Syria)",
+        "is_times_tag": 1,
+        "concept_status": "Active",
+        "concept_type": "nytd_geo"
+    }]
+}
