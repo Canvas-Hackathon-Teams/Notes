@@ -24,6 +24,10 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 1. [Fully immersed in media](challenges/example-11-fully-immersed-in-media.md)
 1. [Do you trust your media](challenges/example-12-do-you-trust-your-media.md)
 
+## Offline resources
+
+* [There are some sample .json and .xml files from NYTimes, USAToday, and Al Jazeera here](https://github.com/Canvas-Hackathon-Teams/Notes/tree/master/resources/apis)
+* [There are some PDFs and other plane reading from various source here](https://github.com/Canvas-Hackathon-Teams/Notes/tree/master/resources/documentation)
 
 ## Resources & useful APIs
 
@@ -90,4 +94,7 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 * [A streaming image resizer, for Node and the browser.](https://github.com/devongovett/resizer-stream)
 * [Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.](https://github.com/project-open-data/csv-to-api)
 * [SlimerJS, A scriptable browser for Web developers](http://slimerjs.org/) and [PhantomJs](http://phantomjs.org/)
+* [Wherewolf, a JavaScript library that lets you run a boundary service in a browser.](https://source.opennews.org/en-US/articles/introducing-wherewolf/).
+* [StoryTracker, a set of open source tools for archiving and analyzing news homepages.](http://blog.pastpages.org/post/102373248288/introducing-storytracker-1-0)
+* 
 
