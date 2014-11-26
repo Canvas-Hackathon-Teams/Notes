@@ -24,6 +24,10 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 1. [Fully immersed in media](challenges/example-11-fully-immersed-in-media.md)
 1. [Do you trust your media](challenges/example-12-do-you-trust-your-media.md)
 
+### Participant challenges
+
+1. [Newsworld: Discover the world through the news!](challenges/participant-1-newsworld.md)
+
 Here are some [example entries](http://aljazeera.challengepost.com/submissions) from a previous Canvas challenge, as well as [the winners](http://aljazeera.challengepost.com/updates/1966-announcing-the-winners-of-the-al-jazeera-innovation-challenge).
 
 ## Offline resources
@@ -75,8 +79,10 @@ Here are some [example entries](http://aljazeera.challengepost.com/submissions) 
 * SoundCite – Knight Lab: http://soundcite.knightlab.com
 * Sparklines: http://omnipotent.net/jquery.sparkline/#s-about
 * Stanford Named Entity Recognizer: http://nlp.stanford.edu/software/CRF-NER.shtml
+* [Stremor Automated Summary](https://www.mashape.com/stremor/stremor-automated-summary-and-abstract-generator#!documentation) and [others](https://www.mashape.com/stremor)
 * The Open Library: http://openlibrary.org/developers/api
 * TogetherJS: https://togetherjs.com/
+* [Tweet Sentiment Analysis API](https://www.tweetsentimentapi.com/)
 * UNHCR 2013 Report & Data: http://unhcr.org/trends2013/
 * USA Today Breaking News API: http://developer.usatoday.com/docs/read/Breaking_News
 * Video.js – Open Source HTML5 Video Player: http://www.videojs.com/
