@@ -33,7 +33,7 @@ Here are some [example entries](http://aljazeera.challengepost.com/submissions) 
 ## Offline resources
 
 * [There are some sample .json and .xml files from NYTimes, USAToday, and Al Jazeera here](https://github.com/Canvas-Hackathon-Teams/Notes/tree/master/resources/apis)
-* [There are some PDFs and other plane reading from various source here](https://github.com/Canvas-Hackathon-Teams/Notes/tree/master/resources/documentation)
+* [There are some PDFs and other plane reading from various sources here](https://github.com/Canvas-Hackathon-Teams/Notes/tree/master/resources/documentation)
 
 ## Resources & useful APIs
 
