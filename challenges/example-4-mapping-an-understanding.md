@@ -41,3 +41,4 @@ Create a solution for mapping out and visualizing or interacting with the geogra
 * GeoNames: http://www.geonames.org/
 * Empirical Studies of Conflict: https://esoc.princeton.edu/
 * IcoMoon https://icomoon.io/
+* Searchable Map Template using Google Maps and Fusion Tables, https://github.com/derekeder/FusionTable-Map-Template
