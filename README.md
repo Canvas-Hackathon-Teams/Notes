@@ -24,6 +24,8 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 1. [Fully immersed in media](challenges/example-11-fully-immersed-in-media.md)
 1. [Do you trust your media](challenges/example-12-do-you-trust-your-media.md)
 
+Here are some [example entries](http://aljazeera.challengepost.com/submissions) from a previous Canvas challenge, as well as [the winners](http://aljazeera.challengepost.com/updates/1966-announcing-the-winners-of-the-al-jazeera-innovation-challenge).
+
 ## Offline resources
 
 * [There are some sample .json and .xml files from NYTimes, USAToday, and Al Jazeera here](https://github.com/Canvas-Hackathon-Teams/Notes/tree/master/resources/apis)
@@ -85,6 +87,7 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 * Wit.ai “Natural Language for the Internet of Things”: https://wit.ai/
 * Wolfram Alpha API: http://products.wolframalpha.com/api/
 * World Bank Open Data: http://data.worldbank.org/
+* Wordnik has an API, http://developer.wordnik.com/
 * YouTube Embedded Player Parameters: https://developers.google.com/youtube/player_parameters
 * ZXing QR Code/Barcode writer and reader library: https://github.com/zxing/zxing
 * “A Big Article About Wee Things” by Lena Groeger: http://www.propublica.org/nerds/item/a-big-article-about-wee-things
@@ -96,5 +99,5 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 * [SlimerJS, A scriptable browser for Web developers](http://slimerjs.org/) and [PhantomJs](http://phantomjs.org/)
 * [Wherewolf, a JavaScript library that lets you run a boundary service in a browser.](https://source.opennews.org/en-US/articles/introducing-wherewolf/).
 * [StoryTracker, a set of open source tools for archiving and analyzing news homepages.](http://blog.pastpages.org/post/102373248288/introducing-storytracker-1-0)
-* 
-
+* [twit, Twitter API Client for node (REST & Streaming API)](https://github.com/ttezel/twit)
+* [dedupe, A python library for accurate and scaleable data deduplication and entity-resolution.](https://github.com/datamade/dedupe)
