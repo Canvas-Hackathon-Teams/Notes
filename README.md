@@ -9,7 +9,7 @@ _Notes in preparation for the [inaugural Canvas hackathon](http://canvas.aljazee
 * [Participant Facebook group](https://www.facebook.com/groups/CANVASinDoha/328800437304056/)
 * [Al Jazeera innovation & research Facebook page](https://www.facebook.com/aljazeerair), for the Likez.
 
-**Hackathon hastags**
+**Hackathon hashtags**
 
 * General: [#MediaInContext](https://twitter.com/hashtag/mediaincontext?f=realtime&src=hash)
 * For help: [#CanvasConnect](https://twitter.com/hashtag/canvasconnect?f=realtime&src=hash)
