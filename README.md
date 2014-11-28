@@ -3,9 +3,29 @@ MediaInContext
 
 _Notes in preparation for the [inaugural Canvas hackathon](http://canvas.aljazeera.com), November 29th – December 1st, 2014, Doha, Qatar._
 
-## Participant lists
+## Participant lists, groups & communications
 
 * [Participants I could find on Twitter](https://twitter.com/phillipadsmith/lists/media-in-context/members)
+* [Participant Facebook group](https://www.facebook.com/groups/CANVASinDoha/328800437304056/)
+* [Al Jazeera innovation & research Facebook page](https://www.facebook.com/aljazeerair), for the Likez.
+
+**Hackathon hastags**
+
+* General: [#MediaInContext](https://twitter.com/hashtag/mediaincontext?f=realtime&src=hash)
+* For help: [#CanvasConnect](https://twitter.com/hashtag/canvasconnect?f=realtime&src=hash)
+
+**Hackathon IRC channel**
+
+* Channel: ##CanvasHackathon
+* Network: [Freenode.net](https://freenode.net/)
+* Web client, https://webchat.freenode.net/ (enter ##CanvasHackathon for the channel name)
+* [IRCcloud client](https://www.irccloud.com/#!/irc.freenode.net:6667/%23%23CanvasHackathon)
+
+**Hackathon social streams**
+
+* Photos: ???
+* Videos: ???
+
 
 ## Challenges
 
@@ -99,7 +119,7 @@ Here are some [example entries](http://aljazeera.challengepost.com/submissions) 
 * “A Big Article About Wee Things” by Lena Groeger: http://www.propublica.org/nerds/item/a-big-article-about-wee-things
 
 ## Useful tools & libraries
-
+* [Official Geokit Gem. Geokit gem provides geocoding and distance/heading calculations. Pair with the geokit-rails plugin for full-fledged location-based app functionality.](https://github.com/geokit/geokit)
 * [A streaming image resizer, for Node and the browser.](https://github.com/devongovett/resizer-stream)
 * [Dynamically generate RESTful APIs from static CSVs. Provides JSON, XML, and HTML.](https://github.com/project-open-data/csv-to-api)
 * [SlimerJS, A scriptable browser for Web developers](http://slimerjs.org/) and [PhantomJs](http://phantomjs.org/)
@@ -107,3 +127,14 @@ Here are some [example entries](http://aljazeera.challengepost.com/submissions) 
 * [StoryTracker, a set of open source tools for archiving and analyzing news homepages.](http://blog.pastpages.org/post/102373248288/introducing-storytracker-1-0)
 * [twit, Twitter API Client for node (REST & Streaming API)](https://github.com/ttezel/twit)
 * [dedupe, A python library for accurate and scaleable data deduplication and entity-resolution.](https://github.com/datamade/dedupe)
+* [Consuming OAuth services has never been easier. Guardian reduces the OAuth footprint in your code to a single request.](http://guardianjs.com/)
+* Because at some point you're sure to need some animated GIFs in your project, [gifify
+Convert any video file to an optimized animated GIF.](https://github.com/vvo/gifify)
+* [urlregexp, Regular expression to match URLs in a body of plain text](https://github.com/webmodules/urlregexp)
+* [A tool for assembling media from their hypertranscripts.](https://github.com/maboa/hyperaudiopad)
+* Becuase, you know, it's all the rage: [A swipeable cards interface. The swipe-left/swipe-right for yes/no input. As seen in apps like Jelly and Tinder.](https://github.com/gajus/swing)
+* [Alasql.js - pure JavaScript fast client-side SQL database](https://github.com/agershun/alasql)
+* [javascript embeddable / in-memory database](https://github.com/techfort/LokiJS)
+* [Tools for editing geospatial vector data](https://github.com/mbloch/mapshaper)
+* [High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration](https://github.com/aFarkas/lazysizes)
+* [Render your Backbone.js apps on the client and the server, using Node.js.](https://github.com/rendrjs/rendr)
