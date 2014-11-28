@@ -56,7 +56,7 @@ Consider the human side of technology: how do we support and organise people to 
 ### Longer Reads
 * [Engaging News Project report from August 2014 on Civility Online](http://engagingnewsproject.org/enp_2014/wp-content/uploads/2014/09/Civility_Online-Discourse_ENP_NICDreport.pdf)
 * [World Association of News Publishers 2013 report on best commenting practices around the world](https://www.dropbox.com/s/j0agku5zkfqkke2/IFRAcommentingreport.pdf?dl=0)
-* [Fantastic-sounding new book on Online Hate Crime](http://www.hup.harvard.edu/catalog.php?isbn=9780674368293 (links below on this page to more about it/her ideas/online trolls)
+* [Fantastic-sounding new book on Online Hate Crime](http://www.hup.harvard.edu/catalog.php?isbn=9780674368293 (links below on this page to more about it/her ideas/online trolls))
 * [A book called Containing Viral Hate, written with American Defense League](http://www.adl.org/combating-hate/cyber-safety/c/viral-hate/viral-hate.html)
 * [The Unsafety Net - about online harassment towards women, pretty comprehensive](http://www.theatlantic.com/technology/archive/2014/10/the-unsafety-net-how-social-media-turned-against-women/381261/?single_page=true)
 * [Goodbye, Ello - an article Tiara wrote on how Ello's (then) lack of privacy features makes it really unsafe](http://notyourexrotic.tumblr.com/post/98292236476/goodbye-ello-privacy-safety-and-why-ello-makes-me)
@@ -65,5 +65,4 @@ Consider the human side of technology: how do we support and organise people to 
 * [Juvia - AJAX open source commenting system](https://github.com/phusion/juvia)
 * [Commentics - open source PHP commenting system](http://www.commentics.org)
 * [Discourse - open source comment system with some interesting mod options](http://www.discourse.org)
-* [Juvia is an open source, Rails based, commenting system](ttps://github.com/phusion/juvia)
 * [Vanilla Forums - also open source, more aimed at discussions, people have repurposed it in interesting ways to support their online comments or collect feedback](http://vanillaforums.org/)
