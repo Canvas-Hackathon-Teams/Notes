@@ -3,6 +3,12 @@ MediaInContext
 
 _Notes in preparation for the [inaugural Canvas hackathon](http://canvas.aljazeera.com), November 29th – December 1st, 2014, Doha, Qatar._
 
+
+**THIS IS YOUR REPO**
+This is a **Github Organization** which means that YOU own it! To add/edit you can either:
+* Send a pull request to be added to the repo
+* Or fork it and send your edits from your own version of repo
+
 ## Participant lists, groups & communications
 
 * [Participants I could find on Twitter](https://twitter.com/phillipadsmith/lists/media-in-context/members)
@@ -47,6 +53,7 @@ The first [challenges](http://canvas.aljazeera.com/challenges/) have been publis
 ### Participant challenges
 
 1. [Newsworld: Discover the world through the news!](challenges/participant-1-newsworld.md)
+1. [Safe Spaces](challenges/Challenge - Safe Spaces.md)
 
 Here are some [example entries](http://aljazeera.challengepost.com/submissions) from a previous Canvas challenge, as well as [the winners](http://aljazeera.challengepost.com/updates/1966-announcing-the-winners-of-the-al-jazeera-innovation-challenge).
 
