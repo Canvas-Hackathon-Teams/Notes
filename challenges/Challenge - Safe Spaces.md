@@ -1,5 +1,11 @@
 ## THEME: CREATING SAFE SPACES AROUND THE PRODUCTION AND DISTRIBUTION OF NEWS
 
+### Phase:
+Production
+
+### Context:
+Cultural and Historical
+
 ### Background:
 
 All the apps in the world will not make a lot of difference if we do not support people to use it in the best ways. Many challenges need solutions that are nit necessarily technical, but societal and interpersonal.
